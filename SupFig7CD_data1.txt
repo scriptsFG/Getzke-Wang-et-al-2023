@@ -1,0 +1,441 @@
+Experiment	Bacterium	Treatment	Label	Rep	Plant	FW
+I	R401_HK	cntrl	1A	2	Col-0	15.175
+I	R401_HK	cntrl	1B	2	Col-0	4.54
+I	R401_HK	cntrl	1C	2	Col-0	2.4
+I	R401_HK	cntrl	1D	2	Col-0	5.425
+I	R401_HK	cntrl	1E	2	Col-0	4.14
+I	R401_HK	cntrl	1F	2	Col-0	13.06666667
+I	R401_HK	cntrl	1A	1	Col-0	11.44
+I	R401_HK	cntrl	1A	3	Col-0	16.62
+I	R401_HK	cntrl	1B	1	Col-0	12.56
+I	R401_HK	cntrl	1B	3	Col-0	4.9
+I	R401_HK	cntrl	1C	1	Col-0	4.333333333
+I	R401_HK	cntrl	1C	3	Col-0	12.58
+I	R401_HK	cntrl	1D	1	Col-0	20.14
+I	R401_HK	cntrl	1D	3	Col-0	7.88
+I	R401_HK	cntrl	1E	1	Col-0	11.96
+I	R401_HK	cntrl	1E	3	Col-0	21.22
+I	R401_HK	cntrl	1F	1	Col-0	4.366666667
+I	R401_HK	cntrl	1F	3	Col-0	25.22
+I	R401_HK	drought	3B	2	Col-0	1.5
+I	R401_HK	drought	3C	2	Col-0	0.3
+I	R401_HK	drought	3E	2	Col-0	1.6
+I	R401_HK	drought	8A	1	Col-0	7.55
+I	R401_HK	drought	8A	3	Col-0	7.35
+I	R401_HK	drought	8B	1	Col-0	0.98
+I	R401_HK	drought	8B	3	Col-0	10.4
+I	R401_HK	drought	8C	1	Col-0	0.433333333
+I	R401_HK	drought	8C	3	Col-0	20.1
+I	R401_HK	drought	8D	1	Col-0	10.64
+I	R401_HK	drought	8D	3	Col-0	1.15
+I	R401_HK	drought	8E	1	Col-0	9.94
+I	R401_HK	drought	8E	3	Col-0	37.2
+I	R401_HK	drought	8F	1	Col-0	7.62
+I	R401_HK	drought	8F	3	Col-0	27.34
+I	R401_HK	low PAR	2A	2	Col-0	2.5
+I	R401_HK	low PAR	2B	2	Col-0	6.06
+I	R401_HK	low PAR	2C	2	Col-0	2.45
+I	R401_HK	low PAR	2D	2	Col-0	0.933333333
+I	R401_HK	low PAR	2E	2	Col-0	2
+I	R401_HK	low PAR	2F	2	Col-0	3.36
+I	R401_HK	low PAR	5A	1	Col-0	3.3
+I	R401_HK	low PAR	5A	3	Col-0	7.233333333
+I	R401_HK	low PAR	5B	1	Col-0	4.54
+I	R401_HK	low PAR	5B	3	Col-0	12.08
+I	R401_HK	low PAR	5C	1	Col-0	3.4
+I	R401_HK	low PAR	5C	3	Col-0	4.975
+I	R401_HK	low PAR	5D	1	Col-0	3.6
+I	R401_HK	low PAR	5D	3	Col-0	4.933333333
+I	R401_HK	low PAR	5E	1	Col-0	9.983333333
+I	R401_HK	low PAR	5E	3	Col-0	5.46
+I	R401_HK	low PAR	5F	1	Col-0	3.783333333
+I	R401_HK	low PAR	5F	3	Col-0	1.16
+I	R401_LP	drought	6B	2	Col-0	1.95
+I	R401_LP	drought	6C	2	Col-0	2.3
+I	R401_LP	drought	6D	2	Col-0	3
+I	R401_LP	drought	6F	2	Col-0	2.55
+I	R401_LP	drought	10A	1	Col-0	10.275
+I	R401_LP	drought	10A	3	Col-0	34.675
+I	R401_LP	drought	10B	1	Col-0	1.433333333
+I	R401_LP	drought	10B	3	Col-0	22.7
+I	R401_LP	drought	10C	1	Col-0	8.55
+I	R401_LP	drought	10C	3	Col-0	24.06666667
+I	R401_LP	drought	10D	1	Col-0	14.4
+I	R401_LP	drought	10D	3	Col-0	4
+I	R401_LP	drought	10E	1	Col-0	0.85
+I	R401_LP	drought	10E	3	Col-0	39.8
+I	R401_LP	drought	10F	1	Col-0	17.75
+I	R401_LP	drought	10F	3	Col-0	43.7
+I	R401_LP	low PAR	4A	2	Col-0	3.75
+I	R401_LP	low PAR	4B	2	Col-0	3.12
+I	R401_LP	low PAR	4C	2	Col-0	2.025
+I	R401_LP	low PAR	4D	2	Col-0	1.95
+I	R401_LP	low PAR	4E	2	Col-0	2.166666667
+I	R401_LP	low PAR	4F	2	Col-0	3
+I	R401_LP	low PAR	7A	1	Col-0	5.78
+I	R401_LP	low PAR	7A	3	Col-0	7.475
+I	R401_LP	low PAR	7B	1	Col-0	3.48
+I	R401_LP	low PAR	7B	3	Col-0	8.96
+I	R401_LP	low PAR	7C	1	Col-0	3.366666667
+I	R401_LP	low PAR	7C	3	Col-0	2.475
+I	R401_LP	low PAR	7D	1	Col-0	3.966666667
+I	R401_LP	low PAR	7D	3	Col-0	6.4
+I	R401_LP	low PAR	7E	1	Col-0	4.325
+I	R401_LP	low PAR	7E	3	Col-0	10.725
+I	R401_LP	low PAR	7F	1	Col-0	2.02
+I	R401_LP	low PAR	7F	3	Col-0	4.8
+I	R401_WT	cntrl	7A	2	Col-0	12.65
+I	R401_WT	cntrl	7B	2	Col-0	9.5
+I	R401_WT	cntrl	7C	2	Col-0	7.38
+I	R401_WT	cntrl	7E	2	Col-0	3.85
+I	R401_WT	cntrl	7F	2	Col-0	16.93333333
+I	R401_WT	cntrl	2A	1	Col-0	18.4
+I	R401_WT	cntrl	2A	3	Col-0	9.4
+I	R401_WT	cntrl	2B	1	Col-0	5.68
+I	R401_WT	cntrl	2B	3	Col-0	20.58
+I	R401_WT	cntrl	2C	1	Col-0	12.83333333
+I	R401_WT	cntrl	2C	3	Col-0	27.975
+I	R401_WT	cntrl	2D	1	Col-0	5.7
+I	R401_WT	cntrl	2D	3	Col-0	23.475
+I	R401_WT	cntrl	2E	1	Col-0	10.525
+I	R401_WT	cntrl	2E	3	Col-0	18
+I	R401_WT	cntrl	2F	1	Col-0	7.62
+I	R401_WT	cntrl	2F	3	Col-0	2.4
+I	R401_WT	drought	9A	2	Col-0	0.1
+I	R401_WT	drought	9B	2	Col-0	0.3
+I	R401_WT	drought	9C	2	Col-0	0.1
+I	R401_WT	drought	9D	2	Col-0	0.6
+I	R401_WT	drought	9E	2	Col-0	1.5
+I	R401_WT	drought	9A	1	Col-0	0.9
+I	R401_WT	drought	9A	3	Col-0	1.1
+I	R401_WT	drought	9B	3	Col-0	2.06
+I	R401_WT	drought	9C	1	Col-0	2.22
+I	R401_WT	drought	9C	3	Col-0	12.775
+I	R401_WT	drought	9D	1	Col-0	9.475
+I	R401_WT	drought	9D	3	Col-0	89.36666667
+I	R401_WT	drought	9E	1	Col-0	6.925
+I	R401_WT	drought	9E	3	Col-0	0.6
+I	R401_WT	drought	9F	1	Col-0	11.4
+I	R401_WT	drought	9F	3	Col-0	1.4
+I	R401_WT	low PAR	10B	2	Col-0	1.466666667
+I	R401_WT	low PAR	10D	2	Col-0	0.533333333
+I	R401_WT	low PAR	10E	2	Col-0	2.8
+I	R401_WT	low PAR	6A	1	Col-0	3.5
+I	R401_WT	low PAR	6A	3	Col-0	3.8
+I	R401_WT	low PAR	6B	1	Col-0	4.26
+I	R401_WT	low PAR	6B	3	Col-0	2.025
+I	R401_WT	low PAR	6C	1	Col-0	1.975
+I	R401_WT	low PAR	6C	3	Col-0	5.55
+I	R401_WT	low PAR	6D	1	Col-0	3.05
+I	R401_WT	low PAR	6D	3	Col-0	4.975
+I	R401_WT	low PAR	6E	1	Col-0	4.025
+I	R401_WT	low PAR	6E	3	Col-0	5.65
+I	R401_WT	low PAR	6F	1	Col-0	2.225
+I	R401_WT	low PAR	6F	3	Col-0	3.35
+II	R107_WT	cntrl	7A	1	Col-0	4.866666667
+II	R107_WT	cntrl	7A	2	Col-0	0.8
+II	R107_WT	cntrl	7B	1	Col-0	4.566666667
+II	R107_WT	cntrl	7B	2	Col-0	0.75
+II	R107_WT	cntrl	7C	1	Col-0	10.75
+II	R107_WT	cntrl	7C	2	Col-0	6.25
+II	R107_WT	cntrl	7D	1	Col-0	0.96
+II	R107_WT	cntrl	7D	2	Col-0	1.5
+II	R107_WT	cntrl	7E	1	Col-0	4.2
+II	R107_WT	cntrl	7E	2	Col-0	2.425
+II	R107_WT	cntrl	7F	1	Col-0	3.425
+II	R107_WT	cntrl	7F	2	Col-0	1.775
+II	R107_WT	NaCl	8A	1	Col-0	0.866666667
+II	R107_WT	NaCl	8B	1	Col-0	2.3
+II	R107_WT	NaCl	8C	1	Col-0	1.125
+II	R107_WT	NaCl	8D	1	Col-0	1.666666667
+II	R107_WT	NaCl	8E	1	Col-0	0.933333333
+II	R107_WT	NaCl	8F	1	Col-0	0.5
+II	R131_WT	cntrl	10A	2	rbohD	2.4
+II	R131_WT	cntrl	10B	2	rbohD	2.15
+II	R131_WT	cntrl	10F	2	rbohD	1.25
+II	R131_WT	cntrl	4A	1	Col-0	12.2
+II	R131_WT	cntrl	4A	2	Col-0	8.65
+II	R131_WT	cntrl	4B	1	Col-0	24.375
+II	R131_WT	cntrl	4B	2	Col-0	13.25
+II	R131_WT	cntrl	4C	1	Col-0	20.8
+II	R131_WT	cntrl	4C	2	Col-0	2.466666667
+II	R131_WT	cntrl	4D	1	Col-0	14.06666667
+II	R131_WT	cntrl	4D	2	Col-0	4.65
+II	R131_WT	cntrl	4E	1	Col-0	10.33333333
+II	R131_WT	cntrl	4E	2	Col-0	2
+II	R131_WT	cntrl	4F	1	Col-0	8.033333333
+II	R131_WT	cntrl	4F	2	Col-0	4.85
+II	R131_WT	NaCl	5A	1	Col-0	17.05
+II	R131_WT	NaCl	5A	2	Col-0	1.525
+II	R131_WT	NaCl	5B	1	Col-0	10.275
+II	R131_WT	NaCl	5B	2	Col-0	2.425
+II	R131_WT	NaCl	5C	1	Col-0	12.9
+II	R131_WT	NaCl	5C	2	Col-0	3.5
+II	R131_WT	NaCl	5D	1	Col-0	18.03333333
+II	R131_WT	NaCl	5D	2	Col-0	1.066666667
+II	R131_WT	NaCl	5E	1	Col-0	8.4
+II	R131_WT	NaCl	5E	2	Col-0	1.8
+II	R131_WT	NaCl	5F	1	Col-0	6.366666667
+II	R131_WT	NaCl	5F	2	Col-0	1.575
+II	R401_HK	cntrl	11A	1	rbohD	17.15
+II	R401_HK	cntrl	11A	2	rbohD	3.38
+II	R401_HK	cntrl	11A	3	rbohD	3.8
+II	R401_HK	cntrl	11B	1	rbohD	17.96666667
+II	R401_HK	cntrl	11B	2	rbohD	2.1
+II	R401_HK	cntrl	11B	3	rbohD	1.666666667
+II	R401_HK	cntrl	11C	1	rbohD	9.733333333
+II	R401_HK	cntrl	11C	2	rbohD	12.05
+II	R401_HK	cntrl	11C	3	rbohD	0.7
+II	R401_HK	cntrl	11D	1	rbohD	29.25
+II	R401_HK	cntrl	11D	2	rbohD	3.08
+II	R401_HK	cntrl	11D	3	rbohD	3.175
+II	R401_HK	cntrl	11E	1	rbohD	15.55
+II	R401_HK	cntrl	11E	2	rbohD	5.96
+II	R401_HK	cntrl	11E	3	rbohD	0.625
+II	R401_HK	cntrl	11F	1	rbohD	23.475
+II	R401_HK	cntrl	11F	2	rbohD	2.02
+II	R401_HK	cntrl	11F	3	rbohD	0.566666667
+II	R401_HK	cntrl	3A	1	Col-0	6.92
+II	R401_HK	cntrl	3A	2	Col-0	3.425
+II	R401_HK	cntrl	3B	1	Col-0	16.825
+II	R401_HK	cntrl	3B	2	Col-0	6.35
+II	R401_HK	cntrl	3C	1	Col-0	12.6
+II	R401_HK	cntrl	3C	2	Col-0	3.3
+II	R401_HK	cntrl	3D	1	Col-0	21.275
+II	R401_HK	cntrl	3D	2	Col-0	14.4
+II	R401_HK	cntrl	3E	1	Col-0	15.9
+II	R401_HK	cntrl	3E	2	Col-0	3.06
+II	R401_HK	cntrl	3F	1	Col-0	12.025
+II	R401_HK	cntrl	3F	2	Col-0	5.84
+II	R401_HK	cntrl	3F	3	Col-0	4.6
+II	R401_HK	cntrl	9A	1	rbohD	6.525
+II	R401_HK	cntrl	9A	2	rbohD	3.025
+II	R401_HK	cntrl	9A	3	rbohD	1
+II	R401_HK	cntrl	9B	1	rbohD	4.96
+II	R401_HK	cntrl	9B	2	rbohD	3.275
+II	R401_HK	cntrl	9B	3	rbohD	2.3
+II	R401_HK	cntrl	9C	1	rbohD	5.3
+II	R401_HK	cntrl	9C	2	rbohD	7
+II	R401_HK	cntrl	9D	1	rbohD	6.025
+II	R401_HK	cntrl	9D	2	rbohD	3.35
+II	R401_HK	cntrl	9D	3	rbohD	2.066666667
+II	R401_HK	cntrl	9E	1	rbohD	8.133333333
+II	R401_HK	cntrl	9E	2	rbohD	3.9
+II	R401_HK	cntrl	9F	1	rbohD	11.16
+II	R401_HK	cntrl	9F	2	rbohD	5.366666667
+II	R401_HK	NaCl	13A	1	rbohD	7.625
+II	R401_HK	NaCl	13A	2	rbohD	1.3
+II	R401_HK	NaCl	13A	3	rbohD	1.066666667
+II	R401_HK	NaCl	13B	1	rbohD	8.25
+II	R401_HK	NaCl	13B	2	rbohD	1.366666667
+II	R401_HK	NaCl	13B	3	rbohD	0.6
+II	R401_HK	NaCl	13C	1	rbohD	5.225
+II	R401_HK	NaCl	13C	2	rbohD	5.18
+II	R401_HK	NaCl	13D	1	rbohD	3
+II	R401_HK	NaCl	13D	2	rbohD	1.133333333
+II	R401_HK	NaCl	13D	3	rbohD	0.866666667
+II	R401_HK	NaCl	13E	1	rbohD	3.633333333
+II	R401_HK	NaCl	13E	2	rbohD	0.425
+II	R401_HK	NaCl	13E	3	rbohD	0.65
+II	R401_HK	NaCl	13F	1	rbohD	3.45
+II	R401_HK	NaCl	13F	2	rbohD	1.2
+II	R401_HK	NaCl	1A	1	Col-0	13.8
+II	R401_HK	NaCl	1A	2	Col-0	4
+II	R401_HK	NaCl	1B	1	Col-0	12.95
+II	R401_HK	NaCl	1B	2	Col-0	2.666666667
+II	R401_HK	NaCl	1C	1	Col-0	15.6
+II	R401_HK	NaCl	1C	2	Col-0	2.18
+II	R401_HK	NaCl	1D	1	Col-0	1.1
+II	R401_HK	NaCl	1D	2	Col-0	1.175
+II	R401_HK	NaCl	1E	1	Col-0	0.9
+II	R401_HK	NaCl	1E	2	Col-0	1.54
+II	R401_HK	NaCl	1F	1	Col-0	13.5
+II	R401_HK	NaCl	1F	2	Col-0	1.625
+II	R401_WT	cntrl	12A	1	rbohD	3.7
+II	R401_WT	cntrl	12A	2	rbohD	13.2
+II	R401_WT	cntrl	12B	1	rbohD	35.35
+II	R401_WT	cntrl	12B	2	rbohD	16.325
+II	R401_WT	cntrl	12B	3	rbohD	4.2
+II	R401_WT	cntrl	12C	1	rbohD	13.05
+II	R401_WT	cntrl	12C	2	rbohD	15.8
+II	R401_WT	cntrl	12D	1	rbohD	22.95
+II	R401_WT	cntrl	12D	2	rbohD	13.83333333
+II	R401_WT	cntrl	12D	3	rbohD	9.35
+II	R401_WT	cntrl	12E	1	rbohD	15.1
+II	R401_WT	cntrl	12F	2	rbohD	16.35
+II	R401_WT	cntrl	6A	1	Col-0	3.675
+II	R401_WT	cntrl	6A	2	Col-0	13.96666667
+II	R401_WT	cntrl	6B	1	Col-0	42.925
+II	R401_WT	cntrl	6B	2	Col-0	3.9
+II	R401_WT	cntrl	6C	1	Col-0	5.366666667
+II	R401_WT	cntrl	6C	2	Col-0	2.3
+II	R401_WT	cntrl	6D	1	Col-0	17.25666667
+II	R401_WT	cntrl	6D	2	Col-0	3.933333333
+II	R401_WT	cntrl	6E	1	Col-0	4.1
+II	R401_WT	cntrl	6E	2	Col-0	11.25
+II	R401_WT	cntrl	6F	1	Col-0	50.6
+II	R401_WT	cntrl	6F	2	Col-0	11.86666667
+II	R401_WT	NaCl	14A	1	rbohD	0.7
+II	R401_WT	NaCl	14A	2	rbohD	3.1
+II	R401_WT	NaCl	14A	3	rbohD	0.9
+II	R401_WT	NaCl	14B	1	rbohD	3.5
+II	R401_WT	NaCl	14B	2	rbohD	2.6
+II	R401_WT	NaCl	14B	3	rbohD	0.2
+II	R401_WT	NaCl	14C	1	rbohD	2.95
+II	R401_WT	NaCl	14D	1	rbohD	1
+II	R401_WT	NaCl	14E	1	rbohD	4.25
+II	R401_WT	NaCl	14F	1	rbohD	0.64
+II	R401_WT	NaCl	2A	1	Col-0	1.025
+II	R401_WT	NaCl	2A	2	Col-0	0.5
+II	R401_WT	NaCl	2B	1	Col-0	0.566666667
+II	R401_WT	NaCl	2B	2	Col-0	0.55
+II	R401_WT	NaCl	2C	1	Col-0	1
+II	R401_WT	NaCl	2C	2	Col-0	1.966666667
+II	R401_WT	NaCl	2D	1	Col-0	1
+II	R401_WT	NaCl	2D	2	Col-0	2.45
+II	R401_WT	NaCl	2E	1	Col-0	3.4
+II	R401_WT	NaCl	2E	2	Col-0	1.8
+II	R401_WT	NaCl	2F	1	Col-0	0.5
+III	R401_HK	cntrl	15A	1	Micro Tom	172.6
+III	R401_HK	cntrl	15A	2	Micro Tom	121.5
+III	R401_HK	cntrl	15A	3	Micro Tom	13.9
+III	R401_HK	cntrl	15B	1	Micro Tom	130.6
+III	R401_HK	cntrl	15B	2	Micro Tom	175.6
+III	R401_HK	cntrl	15B	3	Micro Tom	12.2
+III	R401_HK	cntrl	15C	1	Micro Tom	111.7
+III	R401_HK	cntrl	15C	2	Micro Tom	73.6
+III	R401_HK	cntrl	15C	3	Micro Tom	14.5
+III	R401_HK	cntrl	15D	1	Micro Tom	150.3
+III	R401_HK	cntrl	15D	2	Micro Tom	244.7
+III	R401_HK	cntrl	15D	3	Micro Tom	12.9
+III	R401_HK	cntrl	15E	1	Micro Tom	110.1
+III	R401_HK	cntrl	15E	2	Micro Tom	225.3
+III	R401_HK	cntrl	15E	3	Micro Tom	22.35
+III	R401_HK	cntrl	21A	1	Lotus japonicus	16.16666667
+III	R401_HK	cntrl	21A	2	Lotus japonicus	20.56666667
+III	R401_HK	cntrl	21A	3	Lotus japonicus	17.96666667
+III	R401_HK	cntrl	21B	1	Lotus japonicus	19.96666667
+III	R401_HK	cntrl	21B	2	Lotus japonicus	16.7
+III	R401_HK	cntrl	21B	3	Lotus japonicus	23.5
+III	R401_HK	cntrl	21C	1	Lotus japonicus	12.3
+III	R401_HK	cntrl	21C	2	Lotus japonicus	16.96666667
+III	R401_HK	cntrl	21C	3	Lotus japonicus	16.8
+III	R401_HK	cntrl	21D	1	Lotus japonicus	18.63333333
+III	R401_HK	cntrl	21D	2	Lotus japonicus	19.06666667
+III	R401_HK	cntrl	21D	3	Lotus japonicus	10.76666667
+III	R401_HK	cntrl	21E	1	Lotus japonicus	16.73333333
+III	R401_HK	cntrl	21E	2	Lotus japonicus	11.03333333
+III	R401_HK	cntrl	21E	3	Lotus japonicus	20.23333333
+III	R401_HK	NaCl	18A	1	Micro Tom	39.2
+III	R401_HK	NaCl	18B	1	Micro Tom	14.8
+III	R401_HK	NaCl	18B	2	Micro Tom	33.3
+III	R401_HK	NaCl	18C	1	Micro Tom	69.73333333
+III	R401_HK	NaCl	18D	1	Micro Tom	19.45
+III	R401_HK	NaCl	18E	1	Micro Tom	17.6
+III	R401_HK	NaCl	24A	1	Lotus japonicus	13.6
+III	R401_HK	NaCl	24A	2	Lotus japonicus	16.5
+III	R401_HK	NaCl	24A	3	Lotus japonicus	18.03333333
+III	R401_HK	NaCl	24B	1	Lotus japonicus	13.3
+III	R401_HK	NaCl	24B	2	Lotus japonicus	19.16666667
+III	R401_HK	NaCl	24B	3	Lotus japonicus	16.93333333
+III	R401_HK	NaCl	24C	1	Lotus japonicus	13.45
+III	R401_HK	NaCl	24C	2	Lotus japonicus	12.33333333
+III	R401_HK	NaCl	24C	3	Lotus japonicus	12.86666667
+III	R401_HK	NaCl	24D	1	Lotus japonicus	19.83333333
+III	R401_HK	NaCl	24D	2	Lotus japonicus	13.83333333
+III	R401_HK	NaCl	24D	3	Lotus japonicus	25.2
+III	R401_HK	NaCl	24E	1	Lotus japonicus	17.76666667
+III	R401_HK	NaCl	24E	2	Lotus japonicus	12.83333333
+III	R401_HK	NaCl	24E	3	Lotus japonicus	14.93333333
+III	R401_LP	cntrl	17A	2	Micro Tom	148.8
+III	R401_LP	cntrl	17A	3	Micro Tom	19.25
+III	R401_LP	cntrl	17B	1	Micro Tom	108.5
+III	R401_LP	cntrl	17B	2	Micro Tom	181.4
+III	R401_LP	cntrl	17B	3	Micro Tom	12.1
+III	R401_LP	cntrl	17C	1	Micro Tom	171.7
+III	R401_LP	cntrl	17C	2	Micro Tom	112.2
+III	R401_LP	cntrl	17C	3	Micro Tom	13.4
+III	R401_LP	cntrl	17D	1	Micro Tom	226.3
+III	R401_LP	cntrl	17D	2	Micro Tom	158.4
+III	R401_LP	cntrl	17E	1	Micro Tom	145.3
+III	R401_LP	cntrl	17E	2	Micro Tom	205.2
+III	R401_LP	cntrl	23A	1	Lotus japonicus	15
+III	R401_LP	cntrl	23A	2	Lotus japonicus	17.5
+III	R401_LP	cntrl	23A	3	Lotus japonicus	17.25
+III	R401_LP	cntrl	23B	2	Lotus japonicus	20.9
+III	R401_LP	cntrl	23B	3	Lotus japonicus	26.35
+III	R401_LP	cntrl	23C	1	Lotus japonicus	14.8
+III	R401_LP	cntrl	23C	2	Lotus japonicus	14.45
+III	R401_LP	cntrl	23C	3	Lotus japonicus	22.1
+III	R401_LP	cntrl	23D	1	Lotus japonicus	20.7
+III	R401_LP	cntrl	23D	2	Lotus japonicus	15.7
+III	R401_LP	cntrl	23D	3	Lotus japonicus	18.9
+III	R401_LP	cntrl	23E	1	Lotus japonicus	16
+III	R401_LP	cntrl	23E	2	Lotus japonicus	13.85
+III	R401_LP	cntrl	23E	3	Lotus japonicus	24.95
+III	R401_LP	NaCl	20A	2	Micro Tom	25.6
+III	R401_LP	NaCl	20B	1	Micro Tom	21.9
+III	R401_LP	NaCl	20C	1	Micro Tom	44.4
+III	R401_LP	NaCl	20C	2	Micro Tom	39.7
+III	R401_LP	NaCl	20D	1	Micro Tom	32.1
+III	R401_LP	NaCl	20D	2	Micro Tom	43.5
+III	R401_LP	NaCl	20E	1	Micro Tom	21.9
+III	R401_LP	NaCl	26A	1	Lotus japonicus	26.4
+III	R401_LP	NaCl	26A	2	Lotus japonicus	18.35
+III	R401_LP	NaCl	26A	3	Lotus japonicus	31.2
+III	R401_LP	NaCl	26B	1	Lotus japonicus	21.25
+III	R401_LP	NaCl	26B	2	Lotus japonicus	18.9
+III	R401_LP	NaCl	26B	3	Lotus japonicus	24.1
+III	R401_LP	NaCl	26C	1	Lotus japonicus	23.25
+III	R401_LP	NaCl	26C	2	Lotus japonicus	21.7
+III	R401_LP	NaCl	26C	3	Lotus japonicus	26.9
+III	R401_LP	NaCl	26D	1	Lotus japonicus	22.55
+III	R401_LP	NaCl	26D	2	Lotus japonicus	18.4
+III	R401_LP	NaCl	26D	3	Lotus japonicus	22.4
+III	R401_LP	NaCl	26E	1	Lotus japonicus	21.15
+III	R401_LP	NaCl	26E	2	Lotus japonicus	20.5
+III	R401_LP	NaCl	26E	3	Lotus japonicus	23.3
+III	R401_WT	cntrl	16A	1	Micro Tom	84
+III	R401_WT	cntrl	16A	2	Micro Tom	40.4
+III	R401_WT	cntrl	16B	1	Micro Tom	137.2
+III	R401_WT	cntrl	16B	2	Micro Tom	91.1
+III	R401_WT	cntrl	16C	1	Micro Tom	45.9
+III	R401_WT	cntrl	16C	2	Micro Tom	44.7
+III	R401_WT	cntrl	16D	1	Micro Tom	99
+III	R401_WT	cntrl	16D	2	Micro Tom	65.9
+III	R401_WT	cntrl	16E	1	Micro Tom	63.9
+III	R401_WT	cntrl	16E	2	Micro Tom	76.7
+III	R401_WT	cntrl	22A	1	Lotus japonicus	17.05
+III	R401_WT	cntrl	22A	2	Lotus japonicus	19.15
+III	R401_WT	cntrl	22A	3	Lotus japonicus	16
+III	R401_WT	cntrl	22B	1	Lotus japonicus	13.8
+III	R401_WT	cntrl	22B	2	Lotus japonicus	16.5
+III	R401_WT	cntrl	22B	3	Lotus japonicus	14.55
+III	R401_WT	cntrl	22C	1	Lotus japonicus	15.65
+III	R401_WT	cntrl	22C	2	Lotus japonicus	17.6
+III	R401_WT	cntrl	22C	3	Lotus japonicus	23.95
+III	R401_WT	cntrl	22D	1	Lotus japonicus	18.6
+III	R401_WT	cntrl	22D	2	Lotus japonicus	24.3
+III	R401_WT	cntrl	22D	3	Lotus japonicus	24.06666667
+III	R401_WT	cntrl	22E	1	Lotus japonicus	16.7
+III	R401_WT	cntrl	22E	2	Lotus japonicus	20.45
+III	R401_WT	cntrl	22E	3	Lotus japonicus	22.85
+III	R401_WT	NaCl	19A	1	Micro Tom	21.2
+III	R401_WT	NaCl	19A	2	Micro Tom	18.6
+III	R401_WT	NaCl	19D	1	Micro Tom	23.95
+III	R401_WT	NaCl	19E	1	Micro Tom	15
+III	R401_WT	NaCl	25A	1	Lotus japonicus	12.95
+III	R401_WT	NaCl	25A	2	Lotus japonicus	21.25
+III	R401_WT	NaCl	25A	3	Lotus japonicus	20
+III	R401_WT	NaCl	25B	1	Lotus japonicus	19.5
+III	R401_WT	NaCl	25B	2	Lotus japonicus	22.9
+III	R401_WT	NaCl	25B	3	Lotus japonicus	16.1
+III	R401_WT	NaCl	25C	1	Lotus japonicus	8.75
+III	R401_WT	NaCl	25C	2	Lotus japonicus	21.8
+III	R401_WT	NaCl	25C	3	Lotus japonicus	10.5
+III	R401_WT	NaCl	25D	1	Lotus japonicus	16.2
+III	R401_WT	NaCl	25D	2	Lotus japonicus	15.9
+III	R401_WT	NaCl	25D	3	Lotus japonicus	15.2
+III	R401_WT	NaCl	25E	1	Lotus japonicus	24.4
+III	R401_WT	NaCl	25E	2	Lotus japonicus	14.4
+III	R401_WT	NaCl	25E	3	Lotus japonicus	27.45

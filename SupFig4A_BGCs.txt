@@ -1,0 +1,15 @@
+chrom	start	end	type	color	border	Antimicrobial	BGCs
+contig_1	97060	137017	NRPS	#bfbfbf	#bfbfbf	Pyoverdine	1
+contig_1	617045	627914	Unknown	#bfbfbf	#bfbfbf	Unknown	2
+contig_1	1004818	1019687	NAGGN	#bfbfbf	#bfbfbf	Unknown	3
+contig_1	1150300	1202061	NRPS	#F94144	#F94144	Pyoverdine	4
+contig_1	2169312	2187910	hserlactone	#bfbfbf	#bfbfbf	Unknown	5
+contig_1	2757990	2924424	NRPS	#009B7D	#009B7D	Brassicapeptin/-mycin	6
+contig_1	3116535	3129954	butyrolactone	#bfbfbf	#bfbfbf	Unknown	7
+contig_1	3141948	3217147	NRPS	#bfbfbf	#bfbfbf	Unknown	8
+contig_1	3263970	3305019	T3PKS	#F9C74F	#F9C74F	2,4-Diacetylphluoroglucinol	9
+contig_1	3626986	3650234	betalactone	#bfbfbf	#bfbfbf	Unknown	10
+contig_1	3777910	3854690	NRPS	#bfbfbf	#bfbfbf	Pyoverdine	11
+contig_1	5356112	5378277	Unknown	#bfbfbf	#bfbfbf	Unknown	12
+contig_1	6165699	6209238	NRPS	#bfbfbf	#bfbfbf	Fragin	13
+contig_1	6489784	6533395	arypolyene	#bfbfbf	#bfbfbf	Unknown	14

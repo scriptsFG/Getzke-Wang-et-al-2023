@@ -1,0 +1,145 @@
+Salt	R401	Pot	Plant	Value
+MS	HK	1	1	7.9
+MS	HK	1	2	13.1
+MS	HK	1	3	4.8
+MS	HK	1	4	6.5
+MS	HK	1	5	9.5
+MS	HK	1	6	5.5
+MS	HK	2	1	26.8
+MS	HK	2	2	4.5
+MS	HK	2	3	10.8
+MS	HK	2	4	
+MS	HK	2	5	
+MS	HK	2	6	
+MS	HK	3	1	23.7
+MS	HK	3	2	6.8
+MS	HK	3	3	8.4
+MS	HK	3	4	7.2
+MS	HK	3	5	20.4
+MS	HK	3	6	12.3
+MS	HK	4	1	25.1
+MS	HK	4	2	10.9
+MS	HK	4	3	
+MS	HK	4	4	
+MS	HK	4	5	
+MS	HK	4	6	
+MS	HK	5	1	17.6
+MS	HK	5	2	16.5
+MS	HK	5	3	14.8
+MS	HK	5	4	13.7
+MS	HK	5	5	24.1
+MS	HK	5	6	12.5
+MS	HK	6	1	13.6
+MS	HK	6	2	10
+MS	HK	6	3	4.7
+MS	HK	6	4	
+MS	HK	6	5	
+MS	HK	6	6	
+MS	WT	1	1	15.8
+MS	WT	1	2	6.1
+MS	WT	1	3	4.6
+MS	WT	1	4	8.6
+MS	WT	1	5	15.4
+MS	WT	1	6	14.7
+MS	WT	2	1	5.8
+MS	WT	2	2	7.2
+MS	WT	2	3	14.7
+MS	WT	2	4	6.6
+MS	WT	2	5	7.3
+MS	WT	2	6	
+MS	WT	3	1	8.2
+MS	WT	3	2	14
+MS	WT	3	3	19.6
+MS	WT	3	4	3.9
+MS	WT	3	5	22.2
+MS	WT	3	6	13
+MS	WT	4	1	6.5
+MS	WT	4	2	14
+MS	WT	4	3	15.2
+MS	WT	4	4	4.9
+MS	WT	4	5	10.4
+MS	WT	4	6	14.9
+MS	WT	5	1	12.3
+MS	WT	5	2	11.3
+MS	WT	5	3	7.8
+MS	WT	5	4	6.6
+MS	WT	5	5	8.3
+MS	WT	5	6	9.1
+MS	WT	6	1	7.6
+MS	WT	6	2	6.8
+MS	WT	6	3	5.6
+MS	WT	6	4	2
+MS	WT	6	5	
+MS	WT	6	6	
+NaCl	HK	1	1	1.6
+NaCl	HK	1	2	4.1
+NaCl	HK	1	3	7.6
+NaCl	HK	1	4	2
+NaCl	HK	1	5	7.8
+NaCl	HK	1	6	1.3
+NaCl	HK	2	1	1.3
+NaCl	HK	2	2	
+NaCl	HK	2	3	
+NaCl	HK	2	4	
+NaCl	HK	2	5	
+NaCl	HK	2	6	
+NaCl	HK	3	1	1.9
+NaCl	HK	3	2	5.2
+NaCl	HK	3	3	0.8
+NaCl	HK	3	4	0.8
+NaCl	HK	3	5	0.2
+NaCl	HK	3	6	2.1
+NaCl	HK	4	1	2.5
+NaCl	HK	4	2	3.7
+NaCl	HK	4	3	
+NaCl	HK	4	4	
+NaCl	HK	4	5	
+NaCl	HK	4	6	
+NaCl	HK	5	1	2.1
+NaCl	HK	5	2	9.2
+NaCl	HK	5	3	10.1
+NaCl	HK	5	4	1.4
+NaCl	HK	5	5	3.7
+NaCl	HK	5	6	3.1
+NaCl	HK	6	1	2.7
+NaCl	HK	6	2	1.7
+NaCl	HK	6	3	
+NaCl	HK	6	4	
+NaCl	HK	6	5	
+NaCl	HK	6	6	
+NaCl	WT	1	1	4.4
+NaCl	WT	1	2	0.8
+NaCl	WT	1	3	0.1
+NaCl	WT	1	4	0.1
+NaCl	WT	1	5	0.1
+NaCl	WT	1	6	0.1
+NaCl	WT	2	1	0.1
+NaCl	WT	2	2	0.1
+NaCl	WT	2	3	
+NaCl	WT	2	4	
+NaCl	WT	2	5	
+NaCl	WT	2	6	
+NaCl	WT	3	1	1
+NaCl	WT	3	2	0.2
+NaCl	WT	3	3	0.3
+NaCl	WT	3	4	0.1
+NaCl	WT	3	5	
+NaCl	WT	3	6	
+NaCl	WT	4	1	
+NaCl	WT	4	2	
+NaCl	WT	4	3	
+NaCl	WT	4	4	
+NaCl	WT	4	5	
+NaCl	WT	4	6	
+NaCl	WT	5	1	2.3
+NaCl	WT	5	2	4.1
+NaCl	WT	5	3	0.3
+NaCl	WT	5	4	0.1
+NaCl	WT	5	5	0.1
+NaCl	WT	5	6	
+NaCl	WT	6	1	
+NaCl	WT	6	2	
+NaCl	WT	6	3	
+NaCl	WT	6	4	
+NaCl	WT	6	5	
+NaCl	WT	6	6	

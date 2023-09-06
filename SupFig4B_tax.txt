@@ -1,0 +1,17 @@
+Lawn	Isolate	ASV	RA	Prevalence	Years present	Kingdom	Phylum	Class	Order	Family	Genus	Identity	Ant_score	Sus_Score	Color_by_Class
+R431	431	Zotu53	1.4	0.5	3	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces	99	0.32473	-0.883235044	#B22222
+R651	651	Zotu385	1.2	0.5	3	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	100	-2.01487	-0.650140108	#32CD32
+R695	695	Zotu300	0.3	0.4	3	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	NA	100	-0.50995	-3.963960046	#32CD32
+R147	147	Zotu79	1.8	0.4	3	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	100	-0.81884	-1.306140044	#FFA500
+R16_2	16	Zotu26	1.5	0.6	3	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Methylibium	100	0.78641	-2.329566326	#228B22
+R318D1	318	Zotu6	1.4	1	3	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	NA	100	-2.5516	-1.027225895	#228B22
+R565	565	Zotu4	14.4	0.7	3	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	NA	100	-0.84669	-0.849726153	#228B22
+R568	568	Zotu12	1.5	0.8	3	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	NA	100	-2.45214	-0.492540522	#228B22
+R420	420	Zotu25	1.5	0.8	3	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	99	-1.14278	0.297631697	#4682B4
+R329	329	Zotu5	9.7	1	3	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	100	-2.47916	-0.723187522	#006400
+R9	9	Zotu42	3.2	1	3	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	100	-4.24444	-0.049948169	#006400
+F147	F147	Zotu1	9.6	0.9	3	Fungi	Ascomycota	Ascomycota	Ascomycota	Ascomycota	Ilyonectria	100	-0.67952	-1.209884518	#8B008B
+F243	F243	Zotu357	0.5	0.8	2	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Dendryphion	100	0.73218	-2.992933559	#DB7093
+F016	F016	Zotu8	2.7	1	3	Fungi	Ascomycota	Sordariomycetes	Hypocreomycetidae	Plectosphaerellaceae	Plectosphaerella	100	-1.6143	-1.288993798	#8B008B
+F212	F212	Zotu2	6.1	1	3	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	100	-1.65502	-0.604381718	#8B008B
+BI124	BI124	BI124	0	0	0	spike	spike	spike	spike	spike	spike	0	0	0	0
