@@ -1,0 +1,9 @@
+Syncom	R401	Replicate	pooled shoot Freshweight	Number of plants	avg_SFW
+NoSyncom	wt	1	31.2	5	6.2
+NoSyncom	wt	2	26	5	5.2
+NoSyncom	wt	3	25.3	5	5.1
+NoSyncom	wt	4	24.5	5	4.9
+NoSyncom	HK	1	86.6	5	17.3
+NoSyncom	HK	2	85.6	5	17.1
+NoSyncom	HK	3	104.2	6	17.4
+NoSyncom	HK	4	78.7	5	15.7
