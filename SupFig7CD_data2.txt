@@ -1,0 +1,565 @@
+Experiment	Rep 	Treatment	Bacterium	Plant 	Label	Compartment 	FM	Dilution_factor 	0	1	2	3	4	5
+II	1	cntrl	R107_WT	Col-0	7A	Root	3.6	7	378	62	7	1	no	no
+II	1	cntrl	R107_WT	Col-0	7A	Shoot	8.5	7	148	14	6	2	no	no
+II	1	cntrl	R107_WT	Col-0	7B	Root	2.4	7	443	72	6	no	no	no
+II	1	cntrl	R107_WT	Col-0	7B	Shoot	5.2	7	59	7	1	1	no	no
+II	1	cntrl	R107_WT	Col-0	7C	Root	6.9	7	x	182	45	17	2	1
+II	1	cntrl	R107_WT	Col-0	7C	Shoot	7.4	7	x	x	131	33	2	1
+II	1	cntrl	R107_WT	Col-0	7D	Root	1.5	7	454	43	14	no	no	no
+II	1	cntrl	R107_WT	Col-0	7D	Shoot	4.9	7	98	9	2	no	no	no
+II	1	cntrl	R107_WT	Col-0	7E	Root	3.5	7	x	x	158	41	13	2
+II	1	cntrl	R107_WT	Col-0	7E	Shoot	2.2	7	x	96	21	no	1	no
+II	1	cntrl	R107_WT	Col-0	7F	Root	5.8	7	x	231	86	26	7	no
+II	1	cntrl	R107_WT	Col-0	7F	Shoot	9.2	7	x	254	104	20	1	no
+II	1	cntrl	R131_WT	Col-0	4A	Root	3.3	7	x	159	20	5	no	no
+II	1	cntrl	R131_WT	Col-0	4A	Shoot	25	7	x	x	x	221	78	24
+II	1	cntrl	R131_WT	Col-0	4B	Root	6.1	7	x	x	125	26	9	2
+II	1	cntrl	R131_WT	Col-0	4B	Shoot	24.7	7	x	x	x	235	80	43
+II	1	cntrl	R131_WT	Col-0	4C	Root	7.4	7	x	148	37	4	no	no
+II	1	cntrl	R131_WT	Col-0	4C	Shoot	25.5	7	x	x	x	306	107	40
+II	1	cntrl	R131_WT	Col-0	4D	Root	2.7	7	x	119	15	5	no	no
+II	1	cntrl	R131_WT	Col-0	4D	Shoot	8.7	7	x	x	x	139	49	21
+II	1	cntrl	R131_WT	Col-0	4E	Root	3	7	x	x	143	26	2	no
+II	1	cntrl	R131_WT	Col-0	4E	Shoot	11.9	7	x	x	x	72	18	4
+II	1	cntrl	R131_WT	Col-0	4F	Root	4.7	7	x	x	131	39	12	6
+II	1	cntrl	R131_WT	Col-0	4F	Shoot	4	7	x	x	84	7	3	2
+II	1	cntrl	R131_WT	rbohD	10A	Root	0	7	x	x	x	x	x	x
+II	1	cntrl	R131_WT	rbohD	10A	Shoot	0	7	x	x	x	x	x	x
+II	1	cntrl	R131_WT	rbohD	10B	Root	0.6	7	238	73	14	3	no	no
+II	1	cntrl	R131_WT	rbohD	10B	Shoot	2.8	7	x	x	202	52	9	1
+II	1	cntrl	R131_WT	rbohD	10C	Root	0	7	x	x	x	x	x	x
+II	1	cntrl	R131_WT	rbohD	10C	Shoot	0	7	x	x	x	x	x	x
+II	1	cntrl	R131_WT	rbohD	10D	Root	0	7	x	x	x	x	x	x
+II	1	cntrl	R131_WT	rbohD	10D	Shoot	0	7	x	x	x	x	x	x
+II	1	cntrl	R131_WT	rbohD	10E	Root	0	7	x	x	x	x	x	x
+II	1	cntrl	R131_WT	rbohD	10E	Shoot	0	7	x	x	x	x	x	x
+II	1	cntrl	R131_WT	rbohD	10F	Root	0	7	x	x	x	x	x	x
+II	1	cntrl	R131_WT	rbohD	10F	Shoot	0	7	x	x	x	x	x	x
+II	1	cntrl	R401_WT	Col-0	6A	Root	1.6	7	x	x	20	4	1	1
+II	1	cntrl	R401_WT	Col-0	6A	Shoot	5.7	7	x	96	21	2	1	no
+II	1	cntrl	R401_WT	Col-0	6B	Root	4.1	7	x	x	32	2	1	no
+II	1	cntrl	R401_WT	Col-0	6B	Shoot	68.3	7	x	x	x	x	56	17
+II	1	cntrl	R401_WT	Col-0	6C	Root	1.9	7	x	x	58	19	no	no
+II	1	cntrl	R401_WT	Col-0	6C	Shoot	16.3	7	x	x	x	61	18	6
+II	1	cntrl	R401_WT	Col-0	6D	Root	3.5	7	x	x	x	x	43	8
+II	1	cntrl	R401_WT	Col-0	6D	Shoot	19.5	7	x	x	x	43	19	2
+II	1	cntrl	R401_WT	Col-0	6E	Root	3.4	7	x	x	x	31	5	1
+II	1	cntrl	R401_WT	Col-0	6E	Shoot	6.2	7	x	98	20	2	3	no
+II	1	cntrl	R401_WT	Col-0	6F	Root	5.6	7	x	83	18	6	no	1
+II	1	cntrl	R401_WT	Col-0	6F	Shoot	46.4	7	x	x	x	x	90	33
+II	1	cntrl	R401_WT	rbohD	12A	Root	1.3	7	x	x	x	155	64	30
+II	1	cntrl	R401_WT	rbohD	12A	Shoot	7.6	7	x	x	x	88	21	8
+II	1	cntrl	R401_WT	rbohD	12B	Root	2.5	7	177	34	4	no	no	no
+II	1	cntrl	R401_WT	rbohD	12B	Shoot	3	7	179	38	11	no	no	no
+II	1	cntrl	R401_WT	rbohD	12C	Root	0.9	7	4	no	no	no	no	no
+II	1	cntrl	R401_WT	rbohD	12C	Shoot	8.1	7	x	x	x	95	32	15
+II	1	cntrl	R401_WT	rbohD	12D	Root	1.9	7	121	32	7	no	no	no
+II	1	cntrl	R401_WT	rbohD	12D	Shoot	21.1	7	x	x	154	67	27	8
+II	1	cntrl	R401_WT	rbohD	12E	Root	5	7	x	149	26	no	no	no
+II	1	cntrl	R401_WT	rbohD	12E	Shoot	36.7	7	x	x	123	49	13	5
+II	1	cntrl	R401_WT	rbohD	12F	Root	0	7	x	x	x	x	x	x
+II	1	cntrl	R401_WT	rbohD	12F	Shoot	2	7	116	19	no	no	no	no
+II	1	NaCl	R107_WT	Col-0	8A	Root	0	7	102	33	6	no	no	no
+II	1	NaCl	R107_WT	Col-0	8A	Shoot	1.7	7	62	4	1	no	no	no
+II	1	NaCl	R107_WT	Col-0	8B	Root	1.6	7	x	x	65	15	2	no
+II	1	NaCl	R107_WT	Col-0	8B	Shoot	2.6	7	x	x	x	40	12	4
+II	1	NaCl	R107_WT	Col-0	8C	Root	0.8	7	x	x	54	17	1	1
+II	1	NaCl	R107_WT	Col-0	8C	Shoot	1.5	7	x	x	29	7	4	1
+II	1	NaCl	R107_WT	Col-0	8D	Root	0.8	7	88	12	1	no	no	no
+II	1	NaCl	R107_WT	Col-0	8D	Shoot	2	7	85	6	no	no	no	no
+II	1	NaCl	R107_WT	Col-0	8E	Root	0	7	x	x	x	x	x	x
+II	1	NaCl	R107_WT	Col-0	8E	Shoot	1.6	7	x	72	13	1	no	no
+II	1	NaCl	R107_WT	Col-0	8F	Root	0	7	x	x	x	x	x	x
+II	1	NaCl	R107_WT	Col-0	8F	Shoot	1.4	7	x	x	x	36	19	10
+II	1	NaCl	R131_WT	Col-0	5A	Root	7.9	7	x	x	x	131	33	30
+II	1	NaCl	R131_WT	Col-0	5A	Shoot	16.7	7	x	x	x	179	78	18
+II	1	NaCl	R131_WT	Col-0	5B	Root	3.6	7	x	151	22	5	no	1
+II	1	NaCl	R131_WT	Col-0	5B	Shoot	14	7	x	x	117	43	7	no
+II	1	NaCl	R131_WT	Col-0	5C	Root	4.7	7	x	188	44	12	no	no
+II	1	NaCl	R131_WT	Col-0	5C	Shoot	12.3	7	x	231	152	21	3	no
+II	1	NaCl	R131_WT	Col-0	5D	Root	5.1	7	x	x	188	55	10	2
+II	1	NaCl	R131_WT	Col-0	5D	Shoot	8.1	7	x	x	171	52	4	no
+II	1	NaCl	R131_WT	Col-0	5E	Root	5.7	7	x	x	117	24	3	no
+II	1	NaCl	R131_WT	Col-0	5E	Shoot	13.6	7	x	x	161	41	7	no
+II	1	NaCl	R131_WT	Col-0	5F	Root	0.9	7	x	79	6	2	no	no
+II	1	NaCl	R131_WT	Col-0	5F	Shoot	7.6	7	x	114	13	no	no	no
+II	1	NaCl	R401_WT	Col-0	2A	Root	1.3	7	x	159	15	3	no	no
+II	1	NaCl	R401_WT	Col-0	2A	Shoot	3.3	7	133	17	7	no	1	no
+II	1	NaCl	R401_WT	Col-0	2B	Root	0.7	7	x	x	x	118	47	17
+II	1	NaCl	R401_WT	Col-0	2B	Shoot	3.2	7	x	123	13	3	1	no
+II	1	NaCl	R401_WT	Col-0	2C	Root	1.5	7	x	65	9	1	no	no
+II	1	NaCl	R401_WT	Col-0	2C	Shoot	2.1	7	x	x	205	41	10	2
+II	1	NaCl	R401_WT	Col-0	2D	Root	1.4	7	95	11	2	no	no	no
+II	1	NaCl	R401_WT	Col-0	2D	Shoot	4.8	7	x	107	20	8	1	no
+II	1	NaCl	R401_WT	Col-0	2E	Root	3.1	7	x	x	x	93	18	12
+II	1	NaCl	R401_WT	Col-0	2E	Shoot	15.6	7	x	x	206	43	10	6
+II	1	NaCl	R401_WT	Col-0	2F	Root	2.2	7	x	x	x	131	35	20
+II	1	NaCl	R401_WT	Col-0	2F	Shoot	8	7	x	277	68	10	2	4
+II	1	NaCl	R401_WT	rbohD	14A	Root	0	7	x	x	x	x	x	x
+II	1	NaCl	R401_WT	rbohD	14A	Shoot	11.8	7	x	x	x	101	48	37
+II	1	NaCl	R401_WT	rbohD	14B	Root	0.2	7	15	no	no	no	no	no
+II	1	NaCl	R401_WT	rbohD	14B	Shoot	4	7	189	41	3	no	no	no
+II	1	NaCl	R401_WT	rbohD	14C	Root	0.7	7	x	x	117	33	11	2
+II	1	NaCl	R401_WT	rbohD	14C	Shoot	16.7	7	x	154	44	5	2	no
+II	1	NaCl	R401_WT	rbohD	14D	Root	0	7	x	x	x	x	x	x
+II	1	NaCl	R401_WT	rbohD	14D	Shoot	2.1	7	x	79	8	1	no	no
+II	1	NaCl	R401_WT	rbohD	14E	Root	1.9	7	x	x	163	66	15	3
+II	1	NaCl	R401_WT	rbohD	14E	Shoot	7.8	7	189	44	9	1	1	no
+II	1	NaCl	R401_WT	rbohD	14F	Root	0.4	7	200	33	5	1	no	no
+II	1	NaCl	R401_WT	rbohD	14F	Shoot	10.8	7	x	193	69	16	4	3
+II	2	cntrl	R107_WT	Col-0	7A	Root	1.9	7	16	4	no	no	no	no
+II	2	cntrl	R107_WT	Col-0	7A	Shoot	2.8	7	x	x	x	x	x	x
+II	2	cntrl	R107_WT	Col-0	7B	Root	2	7	x	x	x	x	x	x
+II	2	cntrl	R107_WT	Col-0	7B	Shoot	1.8	7	x	x	x	x	x	x
+II	2	cntrl	R107_WT	Col-0	7C	Root	5.6	7	133	113	no	no	no	no
+II	2	cntrl	R107_WT	Col-0	7C	Shoot	4.3	7	21	no	no	no	no	no
+II	2	cntrl	R107_WT	Col-0	7D	Root	1.5	7	x	x	x	x	x	x
+II	2	cntrl	R107_WT	Col-0	7D	Shoot	2.4	7	x	x	x	x	x	x
+II	2	cntrl	R107_WT	Col-0	7E	Root	2.9	7	x	x	x	x	x	x
+II	2	cntrl	R107_WT	Col-0	7E	Shoot	2.5	7	x	x	x	x	x	x
+II	2	cntrl	R107_WT	Col-0	7F	Root	2.7	7	65	no	no	no	no	no
+II	2	cntrl	R107_WT	Col-0	7F	Shoot	1.6	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	Col-0	4A	Root	2.6	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	Col-0	4A	Shoot	6.8	7	3	no	no	no	no	no
+II	2	cntrl	R131_WT	Col-0	4B	Root	6.5	7	x	x	223	31	5	3
+II	2	cntrl	R131_WT	Col-0	4B	Shoot	13.3	7	x	193	57	8	3	no
+II	2	cntrl	R131_WT	Col-0	4C	Root	2.7	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	Col-0	4C	Shoot	3.5	7	2	no	no	no	no	no
+II	2	cntrl	R131_WT	Col-0	4D	Root	3	7	145	29	no	no	no	no
+II	2	cntrl	R131_WT	Col-0	4D	Shoot	4.5	7	10	2	no	no	no	no
+II	2	cntrl	R131_WT	Col-0	4E	Root	1.6	7	281	101	6	2	no	no
+II	2	cntrl	R131_WT	Col-0	4E	Shoot	3.6	7	95	9	no	no	no	no
+II	2	cntrl	R131_WT	Col-0	4F	Root	4.5	7	140	34	1	no	no	no
+II	2	cntrl	R131_WT	Col-0	4F	Shoot	4.2	7	184	38	2	no	no	no
+II	2	cntrl	R131_WT	rbohD	10A	Root	0	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	rbohD	10A	Shoot	0	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	rbohD	10B	Root	2.4	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	rbohD	10B	Shoot	3.8	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	rbohD	10C	Root	0	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	rbohD	10C	Shoot	0	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	rbohD	10D	Root	0	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	rbohD	10D	Shoot	0	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	rbohD	10E	Root	0	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	rbohD	10E	Shoot	0	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	rbohD	10F	Root	1.8	7	x	x	x	x	x	x
+II	2	cntrl	R131_WT	rbohD	10F	Shoot	2.4	7	x	x	x	x	x	x
+II	2	cntrl	R401_WT	Col-0	6A	Root	2.7	7	x	171	23	3	no	no
+II	2	cntrl	R401_WT	Col-0	6A	Shoot	7.9	7	x	212	69	7	1	1
+II	2	cntrl	R401_WT	Col-0	6B	Root	4.9	7	x	153	42	1	no	no
+II	2	cntrl	R401_WT	Col-0	6B	Shoot	5.8	7	201	61	4	no	no	no
+II	2	cntrl	R401_WT	Col-0	6C	Root	3.2	7	x	205	12	3	2	no
+II	2	cntrl	R401_WT	Col-0	6C	Shoot	1.5	7	144	14	no	no	no	no
+II	2	cntrl	R401_WT	Col-0	6D	Root	2.8	7	x	156	8	2	no	no
+II	2	cntrl	R401_WT	Col-0	6D	Shoot	4.6	7	187	78	no	no	no	no
+II	2	cntrl	R401_WT	Col-0	6E	Root	5	7	x	x	103	10	3	no
+II	2	cntrl	R401_WT	Col-0	6E	Shoot	7.8	7	x	164	18	2	no	no
+II	2	cntrl	R401_WT	Col-0	6F	Root	5	7	x	x	101	26	4	no
+II	2	cntrl	R401_WT	Col-0	6F	Shoot	5.7	7	x	264	50	4	no	no
+II	2	cntrl	R401_WT	rbohD	12A	Root	1.7	7	x	x	x	x	x	x
+II	2	cntrl	R401_WT	rbohD	12A	Shoot	5	7	213	73	8	no	no	no
+II	2	cntrl	R401_WT	rbohD	12B	Root	3.9	7	x	113	8	no	no	no
+II	2	cntrl	R401_WT	rbohD	12B	Shoot	17.5	7	x	x	139	25	8	3
+II	2	cntrl	R401_WT	rbohD	12C	Root	4.1	7	x	164	42	4	2	1
+II	2	cntrl	R401_WT	rbohD	12C	Shoot	10	7	x	273	64	3	3	no
+II	2	cntrl	R401_WT	rbohD	12D	Root	3.2	7	x	x	95	27	6	no
+II	2	cntrl	R401_WT	rbohD	12D	Shoot	10	7	x	150	46	4	2	no
+II	2	cntrl	R401_WT	rbohD	12E	Root	1.6	7	19	no	no	no	no	no
+II	2	cntrl	R401_WT	rbohD	12E	Shoot	3.7	7	x	148	19	2	no	no
+II	2	cntrl	R401_WT	rbohD	12F	Root	4.2	7	x	192	109	18	4	4
+II	2	cntrl	R401_WT	rbohD	12F	Shoot	10.5	7	x	91	13	5	no	no
+II	2	NaCl	R107_WT	Col-0	8A	Root	0	7	34	no	no	no	no	no
+II	2	NaCl	R107_WT	Col-0	8A	Shoot	0	7	2	no	no	no	no	no
+II	2	NaCl	R107_WT	Col-0	8B	Root	0	7	x	x	x	x	x	x
+II	2	NaCl	R107_WT	Col-0	8B	Shoot	0	7	x	x	x	x	x	x
+II	2	NaCl	R107_WT	Col-0	8C	Root	0	7	x	x	x	x	x	x
+II	2	NaCl	R107_WT	Col-0	8C	Shoot	0	7	x	x	x	x	x	x
+II	2	NaCl	R107_WT	Col-0	8D	Root	0	7	x	x	x	x	x	x
+II	2	NaCl	R107_WT	Col-0	8D	Shoot	0	7	x	x	x	x	x	x
+II	2	NaCl	R107_WT	Col-0	8E	Root	0	7	x	x	x	x	x	x
+II	2	NaCl	R107_WT	Col-0	8E	Shoot	0	7	x	x	x	x	x	x
+II	2	NaCl	R107_WT	Col-0	8F	Root	0	7	x	x	x	x	x	x
+II	2	NaCl	R107_WT	Col-0	8F	Shoot	0	7	x	x	x	x	x	x
+II	2	NaCl	R131_WT	Col-0	5A	Root	3.7	7	34	1	no	no	no	no
+II	2	NaCl	R131_WT	Col-0	5A	Shoot	6.2	7	11	no	no	no	no	no
+II	2	NaCl	R131_WT	Col-0	5B	Root	2.4	7	x	x	x	x	x	x
+II	2	NaCl	R131_WT	Col-0	5B	Shoot	2.7	7	x	x	x	x	x	x
+II	2	NaCl	R131_WT	Col-0	5C	Root	2.1	7	14	no	no	no	no	no
+II	2	NaCl	R131_WT	Col-0	5C	Shoot	3.2	7	4	no	no	no	no	no
+II	2	NaCl	R131_WT	Col-0	5D	Root	2	7	3	no	no	no	no	no
+II	2	NaCl	R131_WT	Col-0	5D	Shoot	2.8	7	x	x	x	x	x	x
+II	2	NaCl	R131_WT	Col-0	5E	Root	2.1	7	x	x	x	x	x	x
+II	2	NaCl	R131_WT	Col-0	5E	Shoot	2.5	7	4	x	x	x	x	x
+II	2	NaCl	R131_WT	Col-0	5F	Root	3.9	7	15	no	no	no	no	no
+II	2	NaCl	R131_WT	Col-0	5F	Shoot	3.1	7	x	x	x	x	x	x
+II	2	NaCl	R401_WT	Col-0	2A	Root	1.1	7	x	x	x	x	x	x
+II	2	NaCl	R401_WT	Col-0	2A	Shoot	1.7	7	x	x	178	72	13	3
+II	2	NaCl	R401_WT	Col-0	2B	Root	1.2	7	162	47	3	no	no	no
+II	2	NaCl	R401_WT	Col-0	2B	Shoot	2.2	7	x	254	70	13	10	1
+II	2	NaCl	R401_WT	Col-0	2C	Root	0.9	7	166	67	12	2	no	no
+II	2	NaCl	R401_WT	Col-0	2C	Shoot	3	7	167	32	3	no	1	1
+II	2	NaCl	R401_WT	Col-0	2D	Root	1.8	7	82	5	no	no	no	no
+II	2	NaCl	R401_WT	Col-0	2D	Shoot	2.7	7	x	x	91	26	6	no
+II	2	NaCl	R401_WT	Col-0	2E	Root	1.6	7	166	40	7	no	no	no
+II	2	NaCl	R401_WT	Col-0	2E	Shoot	2.2	7	131	9	3	no	no	no
+II	2	NaCl	R401_WT	Col-0	2F	Root	1.5	7	x	x	x	x	x	x
+II	2	NaCl	R401_WT	Col-0	2F	Shoot	2.4	7	12	no	no	no	no	no
+II	2	NaCl	R401_WT	rbohD	14A	Root	3	7	x	x	x	x	x	x
+II	2	NaCl	R401_WT	rbohD	14A	Shoot	3.5	7	153	59	11	1	no	no
+II	2	NaCl	R401_WT	rbohD	14B	Root	2.3	7	22	2	no	no	no	no
+II	2	NaCl	R401_WT	rbohD	14B	Shoot	2.5	7	x	x	x	x	x	x
+II	2	NaCl	R401_WT	rbohD	14C	Root	2.6	7	96	17	1	no	no	1
+II	2	NaCl	R401_WT	rbohD	14C	Shoot	5	7	x	142	32	4	1	no
+II	2	NaCl	R401_WT	rbohD	14D	Root	0	7	x	x	x	x	x	x
+II	2	NaCl	R401_WT	rbohD	14D	Shoot	3.9	7	x	x	82	11	15	2
+II	2	NaCl	R401_WT	rbohD	14E	Root	0	7	x	x	x	x	x	x
+II	2	NaCl	R401_WT	rbohD	14E	Shoot	1.4	7	107	6	2	x	x	x
+II	2	NaCl	R401_WT	rbohD	14F	Root	0	7	x	x	x	x	x	x
+II	2	NaCl	R401_WT	rbohD	14F	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7A	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7A	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7B	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7B	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7C	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7C	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7D	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7D	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7E	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7E	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7F	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R107_WT	Col-0	7F	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4A	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4A	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4B	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4B	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4C	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4C	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4D	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4D	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4E	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4E	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4F	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	Col-0	4F	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	rbohD	10A	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	rbohD	10A	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	rbohD	10B	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	rbohD	10B	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	rbohD	10C	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	rbohD	10C	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	rbohD	10D	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	rbohD	10D	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	rbohD	10E	Root	1.2	7	73	20	8	no	no	no
+II	3	cntrl	R131_WT	rbohD	10E	Shoot	1.5	7	x	61	7	no	no	no
+II	3	cntrl	R131_WT	rbohD	10F	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R131_WT	rbohD	10F	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6A	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6A	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6B	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6B	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6C	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6C	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6D	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6D	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6E	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6E	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6F	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	Col-0	6F	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	rbohD	12A	Root	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	rbohD	12A	Shoot	0	7	x	x	x	x	x	x
+II	3	cntrl	R401_WT	rbohD	12B	Root	2.7	7	x	98	21	2	1	no
+II	3	cntrl	R401_WT	rbohD	12B	Shoot	5.9	7	x	138	21	10	3	1
+II	3	cntrl	R401_WT	rbohD	12C	Root	0.9	7	28	4	no	no	no	no
+II	3	cntrl	R401_WT	rbohD	12C	Shoot	1.8	7	190	35	3	no	no	no
+II	3	cntrl	R401_WT	rbohD	12D	Root	4.6	7	x	x	128	22	4	no
+II	3	cntrl	R401_WT	rbohD	12D	Shoot	8.1	7	x	x	80	11	2	2
+II	3	cntrl	R401_WT	rbohD	12E	Root	0.4	7	2	no	no	no	no	no
+II	3	cntrl	R401_WT	rbohD	12E	Shoot	2.2	7	72	5	2	no	no	no
+II	3	cntrl	R401_WT	rbohD	12F	Root	0.7	7	x	131	25	3	no	no
+II	3	cntrl	R401_WT	rbohD	12F	Shoot	1.9	7	x	36	3	no	no	no
+II	3	NaCl	R107_WT	Col-0	8A	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R107_WT	Col-0	8A	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R107_WT	Col-0	8B	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R107_WT	Col-0	8B	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R107_WT	Col-0	8C	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R107_WT	Col-0	8C	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R107_WT	Col-0	8D	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R107_WT	Col-0	8D	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R107_WT	Col-0	8E	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R107_WT	Col-0	8E	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R107_WT	Col-0	8F	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R107_WT	Col-0	8F	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5A	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5A	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5B	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5B	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5C	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5C	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5D	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5D	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5E	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5E	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5F	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R131_WT	Col-0	5F	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2A	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2A	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2B	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2B	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2C	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2C	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2D	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2D	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2E	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2E	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2F	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	Col-0	2F	Shoot	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	rbohD	14A	Root	2.2	7	x	180	34	11	no	no
+II	3	NaCl	R401_WT	rbohD	14A	Shoot	3.8	7	115	21	4	1	no	no
+II	3	NaCl	R401_WT	rbohD	14B	Root	0.4	7	11	1	no	no	no	no
+II	3	NaCl	R401_WT	rbohD	14B	Shoot	1.2	7	x	37	2	no	no	no
+II	3	NaCl	R401_WT	rbohD	14C	Root	1.1	7	7	no	no	no	no	no
+II	3	NaCl	R401_WT	rbohD	14C	Shoot	1	7	56	8	no	no	no	no
+II	3	NaCl	R401_WT	rbohD	14D	Root	1.1	7	58	16	2	no	no	no
+II	3	NaCl	R401_WT	rbohD	14D	Shoot	5.2	7	x	x	241	47	13	6
+II	3	NaCl	R401_WT	rbohD	14E	Root	1.2	7	4	1	no	no	no	no
+II	3	NaCl	R401_WT	rbohD	14E	Shoot	0.5	7	7	1	no	no	no	no
+II	3	NaCl	R401_WT	rbohD	14F	Root	0	7	x	x	x	x	x	x
+II	3	NaCl	R401_WT	rbohD	14F	Shoot	0	7	x	x	x	x	x	x
+III	1	cntrl	R401_LP	Lotus japonicus	23A	Root	10	7	x	x	x	235	71	26
+III	1	cntrl	R401_LP	Lotus japonicus	23A	Shoot	14.5	7	200	107	11	2	no	no
+III	1	cntrl	R401_LP	Lotus japonicus	23B	Root	5.9	7	x	x	216	82	19	4
+III	1	cntrl	R401_LP	Lotus japonicus	23B	Shoot	11.7	7	x	x	186	28	9	7
+III	1	cntrl	R401_LP	Lotus japonicus	23C	Root	10.2	7	x	x	304	75	14	4
+III	1	cntrl	R401_LP	Lotus japonicus	23C	Shoot	19.5	7	29	2	no	no	no	no
+III	1	cntrl	R401_LP	Lotus japonicus	23D	Root	13.3	7	x	x	x	225	50	17
+III	1	cntrl	R401_LP	Lotus japonicus	23D	Shoot	20.5	7	56	4	no	no	no	no
+III	1	cntrl	R401_LP	Lotus japonicus	23E	Root	6.3	7	x	x	61	22	7	no
+III	1	cntrl	R401_LP	Lotus japonicus	23E	Shoot	16.2	7	209	54	8	1	no	no
+III	1	cntrl	R401_LP	Micro Tom	17A	Root	0	7	no	no	no	no	no	no
+III	1	cntrl	R401_LP	Micro Tom	17A	Shoot	0	7	no	no	no	no	no	no
+III	1	cntrl	R401_LP	Micro Tom	17B	Root	5	7	x	x	164	36	7	3
+III	1	cntrl	R401_LP	Micro Tom	17B	Shoot	17.2	7	x	x	x	77	23	12
+III	1	cntrl	R401_LP	Micro Tom	17C	Root	9.3	7	x	x	174	44	9	9
+III	1	cntrl	R401_LP	Micro Tom	17C	Shoot	29.6	7	x	x	153	18	2	no
+III	1	cntrl	R401_LP	Micro Tom	17D	Root	6.1	7	x	x	85	15	4	no
+III	1	cntrl	R401_LP	Micro Tom	17D	Shoot	16.7	7	x	3	no	1	no	ni
+III	1	cntrl	R401_LP	Micro Tom	17E	Root	4.1	7	x	195	40	4	1	1
+III	1	cntrl	R401_LP	Micro Tom	17E	Shoot	11.6	7	x	x	129	25	7	2
+III	1	cntrl	R401_WT	Lotus japonicus	22A	Root	11.8	7	x	x	x	63	17	7
+III	1	cntrl	R401_WT	Lotus japonicus	22A	Shoot	18	7	41	10	2	1	n0	no
+III	1	cntrl	R401_WT	Lotus japonicus	22B	Root	10.4	7	x	x	x	42	14	2
+III	1	cntrl	R401_WT	Lotus japonicus	22B	Shoot	14.7	7	x	x	x	60	6	2
+III	1	cntrl	R401_WT	Lotus japonicus	22C	Root	7.8	7	x	x	x	21	15	3
+III	1	cntrl	R401_WT	Lotus japonicus	22C	Shoot	20.7	7	2	1	no	no	no	no
+III	1	cntrl	R401_WT	Lotus japonicus	22D	Root	12.8	7	x	x	153	83	76	4
+III	1	cntrl	R401_WT	Lotus japonicus	22D	Shoot	20.7	7	57	18	14	7	x	x
+III	1	cntrl	R401_WT	Lotus japonicus	22E	Root	12.1	7	x	x	x	x	178	77
+III	1	cntrl	R401_WT	Lotus japonicus	22E	Shoot	18.6	7	x	x	x	143	41	9
+III	1	cntrl	R401_WT	Micro Tom	16A	Root	4.2	7	x	243	53	2	no	no
+III	1	cntrl	R401_WT	Micro Tom	16A	Shoot	21.7	7	x	x	139	40	15	3
+III	1	cntrl	R401_WT	Micro Tom	16B	Root	3.9	7	x	107	15	2	1	no
+III	1	cntrl	R401_WT	Micro Tom	16B	Shoot	22.3	7	x	x	x	45	21	4
+III	1	cntrl	R401_WT	Micro Tom	16C	Root	18.3	7	x	x	x	x	262	84
+III	1	cntrl	R401_WT	Micro Tom	16C	Shoot	13	7	90	49	5	no	no	no
+III	1	cntrl	R401_WT	Micro Tom	16D	Root	15	7	x	x	x	186	55	23
+III	1	cntrl	R401_WT	Micro Tom	16D	Shoot	16.1	7	x	154	27	3	6	1
+III	1	cntrl	R401_WT	Micro Tom	16E	Root	13	7	x	x	x	x	75	39
+III	1	cntrl	R401_WT	Micro Tom	16E	Shoot	13.4	7	x	x	83	22	6	1
+III	1	NaCl	R401_LP	Lotus japonicus	26A	Root	14.7	7	x	x	274	59	10	4
+III	1	NaCl	R401_LP	Lotus japonicus	26A	Shoot	15.5	7	214	34	6	no	no	no
+III	1	NaCl	R401_LP	Lotus japonicus	26B	Root	21.2	7	x	x	x	236	73	20
+III	1	NaCl	R401_LP	Lotus japonicus	26B	Shoot	14.1	7	x	168	39	6	3	no
+III	1	NaCl	R401_LP	Lotus japonicus	26C	Root	12.7	7	x	x	228	66	11	4
+III	1	NaCl	R401_LP	Lotus japonicus	26C	Shoot	13.6	7	x	45	4	no	no	no
+III	1	NaCl	R401_LP	Lotus japonicus	26D	Root	12.9	7	x	x	x	95	20	7
+III	1	NaCl	R401_LP	Lotus japonicus	26D	Shoot	16.8	7	x	46	1	1	no	no
+III	1	NaCl	R401_LP	Lotus japonicus	26E	Root	6.2	7	x	x	66	10	2	2
+III	1	NaCl	R401_LP	Lotus japonicus	26E	Shoot	17.3	7	26	1	no	no	no	no
+III	1	NaCl	R401_LP	Micro Tom	20A	Root	4.2	7	x	219	10	3	1	1
+III	1	NaCl	R401_LP	Micro Tom	20A	Shoot	0	7	no	no	no	1	no	no
+III	1	NaCl	R401_LP	Micro Tom	20B	Root	9.2	7	x	x	93	16	2	2
+III	1	NaCl	R401_LP	Micro Tom	20B	Shoot	6.9	7	x	x	141	19	7	7
+III	1	NaCl	R401_LP	Micro Tom	20C	Root	6.5	7	x	201	31	5	no	1
+III	1	NaCl	R401_LP	Micro Tom	20C	Shoot	9.6	7	x	x	x	90	36	21
+III	1	NaCl	R401_LP	Micro Tom	20D	Root	4.5	7	x	79	8	4	no	no
+III	1	NaCl	R401_LP	Micro Tom	20D	Shoot	7.3	7	x	x	167	52	16	5
+III	1	NaCl	R401_LP	Micro Tom	20E	Root	5.5	7	x	198	32	3	1	1
+III	1	NaCl	R401_LP	Micro Tom	20E	Shoot	8.4	7	x	x	x	153	49	28
+III	1	NaCl	R401_WT	Lotus japonicus	25A	Root	6.6	7	x	x	x	92	19	3
+III	1	NaCl	R401_WT	Lotus japonicus	25A	Shoot	12.3	7	x	x	96	19	3	3
+III	1	NaCl	R401_WT	Lotus japonicus	25B	Root	12.1	7	x	x	x	153	26	9
+III	1	NaCl	R401_WT	Lotus japonicus	25B	Shoot	19	7	x	193	36	5	no	no
+III	1	NaCl	R401_WT	Lotus japonicus	25C	Root	11	7	x	x	206	53	10	3
+III	1	NaCl	R401_WT	Lotus japonicus	25C	Shoot	9.9	7	x	150	19	1	no	1
+III	1	NaCl	R401_WT	Lotus japonicus	25D	Root	7.7	7	x	x	197	61	13	13
+III	1	NaCl	R401_WT	Lotus japonicus	25D	Shoot	18.9	7	x	121	11	3	no	1
+III	1	NaCl	R401_WT	Lotus japonicus	25E	Root	9	7	x	x	191	41	6	1
+III	1	NaCl	R401_WT	Lotus japonicus	25E	Shoot	12.1	7	66	8	1	no	no	no
+III	1	NaCl	R401_WT	Micro Tom	19A	Root	3.8	7	x	x	x	x	115	38
+III	1	NaCl	R401_WT	Micro Tom	19A	Shoot	7.2	7	x	x	120	18	7	3
+III	1	NaCl	R401_WT	Micro Tom	19B	Root	2.8	7	x	89	8	no	3	no
+III	1	NaCl	R401_WT	Micro Tom	19B	Shoot	0	7	no	no	no	no	no	no
+III	1	NaCl	R401_WT	Micro Tom	19C	Root	0	7	no	no	no	no	no	no
+III	1	NaCl	R401_WT	Micro Tom	19C	Shoot	0	7	no	no	no	no	no	no
+III	1	NaCl	R401_WT	Micro Tom	19D	Root	5.5	7	x	x	x	85	15	6
+III	1	NaCl	R401_WT	Micro Tom	19D	Shoot	4.7	7	x	x	127	24	4	5
+III	1	NaCl	R401_WT	Micro Tom	19E	Root	4.5	7	x	x	149	46	16	9
+III	1	NaCl	R401_WT	Micro Tom	19E	Shoot	1.6	7	x	162	15	2	1	no
+III	2	cntrl	R401_LP	Lotus japonicus	23A	Root	8.1	10	x	499	103	10	5	no
+III	2	cntrl	R401_LP	Lotus japonicus	23A	Shoot	9.6	10	x	387	73	10	no	no
+III	2	cntrl	R401_LP	Lotus japonicus	23B	Root	13.4	10	x	246	38	6	1	no
+III	2	cntrl	R401_LP	Lotus japonicus	23B	Shoot	15.8	10	40	11	no	no	no	no
+III	2	cntrl	R401_LP	Lotus japonicus	23C	Root	11.3	10	x	x	223	37	4	2
+III	2	cntrl	R401_LP	Lotus japonicus	23C	Shoot	12.6	10	19	2	no	no	no	no
+III	2	cntrl	R401_LP	Lotus japonicus	23D	Root	6.3	10	x	x	101	12	2	1
+III	2	cntrl	R401_LP	Lotus japonicus	23D	Shoot	11.4	10	206	51	6	no	no	no
+III	2	cntrl	R401_LP	Lotus japonicus	23E	Root	9	10	x	x	179	18	6	3
+III	2	cntrl	R401_LP	Lotus japonicus	23E	Shoot	15	10	221	71	2	no	no	no
+III	2	cntrl	R401_LP	Micro Tom	17A	Root	10.5	10	x	x	134	35	14	2
+III	2	cntrl	R401_LP	Micro Tom	17A	Shoot	18	10	x	303	115	13	2	1
+III	2	cntrl	R401_LP	Micro Tom	17B	Root	19.7	10	x	322	120	15	2	1
+III	2	cntrl	R401_LP	Micro Tom	17B	Shoot	24.9	10	x	343	53	no	no	no
+III	2	cntrl	R401_LP	Micro Tom	17C	Root	8.2	10	x	228	39	3	2	2
+III	2	cntrl	R401_LP	Micro Tom	17C	Shoot	17.1	10	x	402	163	9	no	no
+III	2	cntrl	R401_LP	Micro Tom	17D	Root	10.6	10	x	244	26	5	no	1
+III	2	cntrl	R401_LP	Micro Tom	17D	Shoot	14.7	10	x	187	25	no	no	no
+III	2	cntrl	R401_LP	Micro Tom	17E	Root	8.6	10	x	206	19	5	no	no
+III	2	cntrl	R401_LP	Micro Tom	17E	Shoot	18.2	10	x	211	39	5	no	no
+III	2	cntrl	R401_WT	Lotus japonicus	22A	Root	10.3	10	x	216	36	10	1	2
+III	2	cntrl	R401_WT	Lotus japonicus	22A	Shoot	18.2	10	no	no	no	no	no	no
+III	2	cntrl	R401_WT	Lotus japonicus	22B	Root	11.5	10	x	236	44	11	1	no
+III	2	cntrl	R401_WT	Lotus japonicus	22B	Shoot	8.2	10	x	256	88	15	no	no
+III	2	cntrl	R401_WT	Lotus japonicus	22C	Root	7.6	10	x	221	23	7	1	no
+III	2	cntrl	R401_WT	Lotus japonicus	22C	Shoot	14.5	10	102	16	no	no	no	no
+III	2	cntrl	R401_WT	Lotus japonicus	22D	Root	15.4	10	x	x	115	24	6	1
+III	2	cntrl	R401_WT	Lotus japonicus	22D	Shoot	13.6	10	142	25	4	no	no	no
+III	2	cntrl	R401_WT	Lotus japonicus	22E	Root	9.5	10	x	250	16	5	no	no
+III	2	cntrl	R401_WT	Lotus japonicus	22E	Shoot	12.9	10	13	2	1	no	no	no
+III	2	cntrl	R401_WT	Micro Tom	16A	Root	10.5	10	x	x	x	121	24	10
+III	2	cntrl	R401_WT	Micro Tom	16A	Shoot	9.8	10	x	x	126	25	9	4
+III	2	cntrl	R401_WT	Micro Tom	16B	Root	8.5	10	x	x	68	8	3	1
+III	2	cntrl	R401_WT	Micro Tom	16B	Shoot	15.6	10	x	x	179	28	4	3
+III	2	cntrl	R401_WT	Micro Tom	16C	Root	7.8	10	x	x	276	69	7	3
+III	2	cntrl	R401_WT	Micro Tom	16C	Shoot	10.5	10	x	169	36	7	7	1
+III	2	cntrl	R401_WT	Micro Tom	16D	Root	11.8	10	x	x	x	121	30	3
+III	2	cntrl	R401_WT	Micro Tom	16D	Shoot	10.1	10	x	x	94	2	3	no
+III	2	cntrl	R401_WT	Micro Tom	16E	Root	7.7	10	x	x	x	120	38	14
+III	2	cntrl	R401_WT	Micro Tom	16E	Shoot	11	10	x	272	75	12	no	no
+III	2	NaCl	R401_LP	Lotus japonicus	26A	Root	11.8	10	x	299	79	13	2	no
+III	2	NaCl	R401_LP	Lotus japonicus	26A	Shoot	11	10	x	239	121	9	no	no
+III	2	NaCl	R401_LP	Lotus japonicus	26B	Root	14	10	x	x	256	70	14	2
+III	2	NaCl	R401_LP	Lotus japonicus	26B	Shoot	13.8	10	190	53	2	no	no	no
+III	2	NaCl	R401_LP	Lotus japonicus	26C	Root	10.3	10	x	255	44	3	no	no
+III	2	NaCl	R401_LP	Lotus japonicus	26C	Shoot	15	10	10	2	no	no	no	no
+III	2	NaCl	R401_LP	Lotus japonicus	26D	Root	15.4	10	x	x	159	74	29	27
+III	2	NaCl	R401_LP	Lotus japonicus	26D	Shoot	11.2	10	2	1	2	no	no	no
+III	2	NaCl	R401_LP	Lotus japonicus	26E	Root	11.7	10	x	297	77	10	2	2
+III	2	NaCl	R401_LP	Lotus japonicus	26E	Shoot	12.4	10	236	131	13	2	1	no
+III	2	NaCl	R401_LP	Micro Tom	20A	Root	4.6	10	x	203	47	5	2	1
+III	2	NaCl	R401_LP	Micro Tom	20A	Shoot	6.6	10	x	287	21	3	no	no
+III	2	NaCl	R401_LP	Micro Tom	20B	Root	0	10	x	x	x	x	x	x
+III	2	NaCl	R401_LP	Micro Tom	20B	Shoot	0	10	x	x	x	x	x	x
+III	2	NaCl	R401_LP	Micro Tom	20C	Root	15	10	x	x	156	16	1	1
+III	2	NaCl	R401_LP	Micro Tom	20C	Shoot	13.3	10	x	292	86	13	3	2
+III	2	NaCl	R401_LP	Micro Tom	20D	Root	17.1	10	x	x	228	35	11	2
+III	2	NaCl	R401_LP	Micro Tom	20D	Shoot	10.9	10	x	272	82	10	5	2
+III	2	NaCl	R401_LP	Micro Tom	20E	Root	0.6	10	x	x	x	x	x	x
+III	2	NaCl	R401_LP	Micro Tom	20E	Shoot	0.7	10	x	x	x	x	x	x
+III	2	NaCl	R401_WT	Lotus japonicus	25A	Root	12.4	10	x	x	269	60	13	1
+III	2	NaCl	R401_WT	Lotus japonicus	25A	Shoot	18.4	10	3	1	no	no	no	no
+III	2	NaCl	R401_WT	Lotus japonicus	25B	Root	6	10	x	x	186	35	9	4
+III	2	NaCl	R401_WT	Lotus japonicus	25B	Shoot	15.8	10	165	104	6	no	no	no
+III	2	NaCl	R401_WT	Lotus japonicus	25C	Root	9.2	10	x	x	174	24	4	no
+III	2	NaCl	R401_WT	Lotus japonicus	25C	Shoot	10.4	10	38	5	no	no	no	no
+III	2	NaCl	R401_WT	Lotus japonicus	25D	Root	3.8	10	x	300	25	3	no	no
+III	2	NaCl	R401_WT	Lotus japonicus	25D	Shoot	9.6	10	127	6	no	no	no	no
+III	2	NaCl	R401_WT	Lotus japonicus	25E	Root	6.8	10	x	x	266	86	16	4
+III	2	NaCl	R401_WT	Lotus japonicus	25E	Shoot	9.1	10	18	5	no	no	no	no
+III	2	NaCl	R401_WT	Micro Tom	19A	Root	4.4	10	x	x	x	157	55	15
+III	2	NaCl	R401_WT	Micro Tom	19A	Shoot	3.2	10	x	142	15	4	no	no
+III	2	NaCl	R401_WT	Micro Tom	19B	Root	0	10	x	x	x	x	x	x
+III	2	NaCl	R401_WT	Micro Tom	19B	Shoot	0	10	x	x	x	x	x	x
+III	2	NaCl	R401_WT	Micro Tom	19C	Root	0	10	x	x	x	x	x	x
+III	2	NaCl	R401_WT	Micro Tom	19C	Shoot	0	10	x	x	x	x	x	x
+III	2	NaCl	R401_WT	Micro Tom	19D	Root	2.8	10	x	x	172	37	9	2
+III	2	NaCl	R401_WT	Micro Tom	19D	Shoot	7.5	10	x	x	165	40	6	no
+III	2	NaCl	R401_WT	Micro Tom	19E	Root	0	10	x	x	x	x	x	x
+III	2	NaCl	R401_WT	Micro Tom	19E	Shoot	0	10	x	x	x	x	x	x
+III	3	cntrl	R401_LP	Lotus japonicus	23A	Root	16.1	10	x	x	x	37	5	4
+III	3	cntrl	R401_LP	Lotus japonicus	23A	Shoot	13.9	10	x	18	2	1	no	no
+III	3	cntrl	R401_LP	Lotus japonicus	23B	Root	22.8	10	x	x	x	52	9	2
+III	3	cntrl	R401_LP	Lotus japonicus	23B	Shoot	17.7	10	x	78	6	no	no	no
+III	3	cntrl	R401_LP	Lotus japonicus	23C	Root	16.1	10	x	x	x	50	13	10
+III	3	cntrl	R401_LP	Lotus japonicus	23C	Shoot	13	10	x	x	190	24	3	no
+III	3	cntrl	R401_LP	Lotus japonicus	23D	Root	8	10	x	x	128	14	2	4
+III	3	cntrl	R401_LP	Lotus japonicus	23D	Shoot	9.6	10	x	23	no	no	no	no
+III	3	cntrl	R401_LP	Lotus japonicus	23E	Root	17.1	10	x	x	x	28	7	7
+III	3	cntrl	R401_LP	Lotus japonicus	23E	Shoot	13.3	10	x	x	16	no	no	no
+III	3	cntrl	R401_LP	Micro Tom	17A	Root	6.9	10	x	x	x	300	65	58
+III	3	cntrl	R401_LP	Micro Tom	17A	Shoot	12.4	10	x	x	x	x	294	85
+III	3	cntrl	R401_LP	Micro Tom	17B	Root	5.5	10	x	x	x	41	7	8
+III	3	cntrl	R401_LP	Micro Tom	17B	Shoot	13.3	10	x	x	x	x	62	39
+III	3	cntrl	R401_LP	Micro Tom	17C	Root	5.9	10	x	x	x	231	81	15
+III	3	cntrl	R401_LP	Micro Tom	17C	Shoot	17.9	10	x	x	x	x	155	43
+III	3	cntrl	R401_LP	Micro Tom	17D	Root	1.3	10	x	x	x	x	x	x
+III	3	cntrl	R401_LP	Micro Tom	17D	Shoot	0.3	10	x	x	x	x	x	x
+III	3	cntrl	R401_LP	Micro Tom	17E	Root	5.5	10	x	x	x	210	67	no
+III	3	cntrl	R401_LP	Micro Tom	17E	Shoot	8.7	10	x	x	x	213	56	no
+III	3	cntrl	R401_WT	Lotus japonicus	22A	Root	13.5	10	x	x	x	200	50	27
+III	3	cntrl	R401_WT	Lotus japonicus	22A	Shoot	22.2	10	108	10	1	no	no	no
+III	3	cntrl	R401_WT	Lotus japonicus	22B	Root	13	10	x	x	298	74	33	26
+III	3	cntrl	R401_WT	Lotus japonicus	22B	Shoot	14.5	10	x	x	293	57	7	3
+III	3	cntrl	R401_WT	Lotus japonicus	22C	Root	21.9	10	x	x	x	175	41	32
+III	3	cntrl	R401_WT	Lotus japonicus	22C	Shoot	14.8	10	130	12	1	no	no	no
+III	3	cntrl	R401_WT	Lotus japonicus	22D	Root	17.9	10	x	x	295	45	3	3
+III	3	cntrl	R401_WT	Lotus japonicus	22D	Shoot	22.3	10	x	x	35	no	no	no
+III	3	cntrl	R401_WT	Lotus japonicus	22E	Root	11.1	10	x	x	x	175	26	22
+III	3	cntrl	R401_WT	Lotus japonicus	22E	Shoot	11	10	x	x	152	18	5	1
+III	3	cntrl	R401_WT	Micro Tom	16A	Root	1.3	10	x	x	170	25	6	3
+III	3	cntrl	R401_WT	Micro Tom	16A	Shoot	13.2	10	x	x	x	x	152	64
+III	3	cntrl	R401_WT	Micro Tom	16B	Root	2.6	10	x	x	x	97	15	9
+III	3	cntrl	R401_WT	Micro Tom	16B	Shoot	2.2	10	x	x	x	198	95	65
+III	3	cntrl	R401_WT	Micro Tom	16C	Root	2.1	10	15	2	no	no	no	no
+III	3	cntrl	R401_WT	Micro Tom	16C	Shoot	2.6	10	x	110	15	1	1	no
+III	3	cntrl	R401_WT	Micro Tom	16D	Root	5.5	10	x	x	x	255	91	41
+III	3	cntrl	R401_WT	Micro Tom	16D	Shoot	8.8	10	x	x	x	91	33	37
+III	3	cntrl	R401_WT	Micro Tom	16E	Root	1.8	10	x	x	187	24	4	4
+III	3	cntrl	R401_WT	Micro Tom	16E	Shoot	7.7	10	x	x	x	110	17	4
+III	3	NaCl	R401_LP	Lotus japonicus	26A	Root	13.3	10	x	x	x	23	5	4
+III	3	NaCl	R401_LP	Lotus japonicus	26A	Shoot	26.4	10	18	1	no	no	no	no
+III	3	NaCl	R401_LP	Lotus japonicus	26B	Root	16.2	10	x	x	x	52	21	4
+III	3	NaCl	R401_LP	Lotus japonicus	26B	Shoot	12.6	10	x	59	4	2	1	no
+III	3	NaCl	R401_LP	Lotus japonicus	26C	Root	18.5	10	x	x	x	80	17	5
+III	3	NaCl	R401_LP	Lotus japonicus	26C	Shoot	13.8	10	x	58	7	no	no	no
+III	3	NaCl	R401_LP	Lotus japonicus	26D	Root	10.1	10	x	x	80	10	3	1
+III	3	NaCl	R401_LP	Lotus japonicus	26D	Shoot	16.9	10	34	6	no	no	no	no
+III	3	NaCl	R401_LP	Lotus japonicus	26E	Root	9.8	10	x	x	x	37	4	5
+III	3	NaCl	R401_LP	Lotus japonicus	26E	Shoot	10.8	10	x	x	70	5	1	1
+III	3	NaCl	R401_LP	Micro Tom	20A	Root	0	10	x	x	x	x	x	x
+III	3	NaCl	R401_LP	Micro Tom	20A	Shoot	0	10	x	x	x	x	x	x
+III	3	NaCl	R401_LP	Micro Tom	20B	Root	0	10	x	x	x	x	x	x
+III	3	NaCl	R401_LP	Micro Tom	20B	Shoot	0	10	x	x	x	x	x	x
+III	3	NaCl	R401_LP	Micro Tom	20C	Root	1.8	10	x	69	4	no	no	no
+III	3	NaCl	R401_LP	Micro Tom	20C	Shoot	14.8	10	x	x	x	x	57	25
+III	3	NaCl	R401_LP	Micro Tom	20D	Root	0	10	x	x	x	x	x	x
+III	3	NaCl	R401_LP	Micro Tom	20D	Shoot	0.3	10	x	x	x	x	x	x
+III	3	NaCl	R401_LP	Micro Tom	20E	Root	2.5	10	x	x	85	9	3	no
+III	3	NaCl	R401_LP	Micro Tom	20E	Shoot	15	10	x	x	x	x	79	42
+III	3	NaCl	R401_WT	Lotus japonicus	25A	Root	15.8	10	x	x	x	38	11	9
+III	3	NaCl	R401_WT	Lotus japonicus	25A	Shoot	24.3	10	48	7	no	no	no	no
+III	3	NaCl	R401_WT	Lotus japonicus	25B	Root	13.1	10	x	x	x	160	32	11
+III	3	NaCl	R401_WT	Lotus japonicus	25B	Shoot	15.6	10	45	6	no	no	no	no
+III	3	NaCl	R401_WT	Lotus japonicus	25C	Root	3.6	10	x	x	x	108	34	15
+III	3	NaCl	R401_WT	Lotus japonicus	25C	Shoot	6	10	x	118	17	1	1	no
+III	3	NaCl	R401_WT	Lotus japonicus	25D	Root	8.3	10	x	x	x	x	46	10
+III	3	NaCl	R401_WT	Lotus japonicus	25D	Shoot	15.2	10	x	150	27	3	no	no
+III	3	NaCl	R401_WT	Lotus japonicus	25E	Root	19.6	10	x	x	x	x	47	18
+III	3	NaCl	R401_WT	Lotus japonicus	25E	Shoot	17.6	10	x	18	no	no	no	no
+III	3	NaCl	R401_WT	Micro Tom	19A	Root	3	10	x	x	99	19	3	5
+III	3	NaCl	R401_WT	Micro Tom	19A	Shoot	13.9	10	x	x	x	x	94	51
+III	3	NaCl	R401_WT	Micro Tom	19B	Root	0	10	x	x	x	x	x	x
+III	3	NaCl	R401_WT	Micro Tom	19B	Shoot	0	10	x	x	x	x	x	x
+III	3	NaCl	R401_WT	Micro Tom	19C	Root	1.4	10	x	x	31	10	1	no
+III	3	NaCl	R401_WT	Micro Tom	19C	Shoot	5.4	10	x	x	55	7	6	no
+III	3	NaCl	R401_WT	Micro Tom	19D	Root	0	10	x	x	x	x	x	x
+III	3	NaCl	R401_WT	Micro Tom	19D	Shoot	0	10	x	x	x	x	x	x
+III	3	NaCl	R401_WT	Micro Tom	19E	Root	3.4	10	x	x	x	95	14	9
+III	3	NaCl	R401_WT	Micro Tom	19E	Shoot	3.9	10	x	x	57	3	3	2

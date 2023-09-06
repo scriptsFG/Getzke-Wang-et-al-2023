@@ -1,0 +1,637 @@
+Condition	Molecule	Salt	Root_length
+O_cntrl	O	cntrl	24.973
+O_cntrl	O	cntrl	75.959
+O_cntrl	O	cntrl	49.506
+O_cntrl	O	cntrl	29.832
+O_cntrl	O	cntrl	52.325
+O_cntrl	O	cntrl	48.32
+O_cntrl	O	cntrl	86.825
+O_cntrl	O	cntrl	87.12
+O_cntrl	O	cntrl	49.684
+O_cntrl	O	cntrl	76.193
+O_cntrl	O	cntrl	26.467
+O_cntrl	O	cntrl	71.075
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	27.967
+O_cntrl	O	cntrl	46.271
+O_cntrl	O	cntrl	48.702
+O_cntrl	O	cntrl	47.63
+O_cntrl	O	cntrl	37.458
+O_cntrl	O	cntrl	48.436
+O_cntrl	O	cntrl	41.637
+O_cntrl	O	cntrl	51.207
+O_cntrl	O	cntrl	49.859
+O_cntrl	O	cntrl	51.584
+O_cntrl	O	cntrl	50.949
+O_cntrl	O	cntrl	52.034
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	66.874
+O_cntrl	O	cntrl	54.407
+O_cntrl	O	cntrl	54.772
+O_cntrl	O	cntrl	57.294
+O_cntrl	O	cntrl	56.506
+O_cntrl	O	cntrl	54.25
+O_cntrl	O	cntrl	61.696
+O_cntrl	O	cntrl	79.707
+O_cntrl	O	cntrl	73.484
+O_cntrl	O	cntrl	82.612
+O_cntrl	O	cntrl	60.686
+O_cntrl	O	cntrl	47.664
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	32.475
+O_cntrl	O	cntrl	42.882
+O_cntrl	O	cntrl	44.865
+O_cntrl	O	cntrl	34.244
+O_cntrl	O	cntrl	42.101
+O_cntrl	O	cntrl	32.215
+O_cntrl	O	cntrl	41.526
+O_cntrl	O	cntrl	40.169
+O_cntrl	O	cntrl	41.424
+O_cntrl	O	cntrl	44.585
+O_cntrl	O	cntrl	45.166
+O_cntrl	O	cntrl	45.422
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	75.642
+O_cntrl	O	cntrl	50.211
+O_cntrl	O	cntrl	24.184
+O_cntrl	O	cntrl	52.395
+O_cntrl	O	cntrl	45.985
+O_cntrl	O	cntrl	29.33
+O_cntrl	O	cntrl	57.372
+O_cntrl	O	cntrl	63.909
+O_cntrl	O	cntrl	25.181
+O_cntrl	O	cntrl	72.553
+O_cntrl	O	cntrl	33.587
+O_cntrl	O	cntrl	60.537
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	43.509
+O_cntrl	O	cntrl	46.733
+O_cntrl	O	cntrl	30.171
+O_cntrl	O	cntrl	48.741
+O_cntrl	O	cntrl	46.834
+O_cntrl	O	cntrl	33.429
+O_cntrl	O	cntrl	50.44
+O_cntrl	O	cntrl	29.16
+O_cntrl	O	cntrl	26.975
+O_cntrl	O	cntrl	50.742
+O_cntrl	O	cntrl	50.622
+O_cntrl	O	cntrl	50.179
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_cntrl	O	cntrl	
+O_100	O	100	44.93
+O_100	O	100	27.801
+O_100	O	100	40.588
+O_100	O	100	32.558
+O_100	O	100	34.93
+O_100	O	100	40.512
+O_100	O	100	67.797
+O_100	O	100	26.449
+O_100	O	100	54.413
+O_100	O	100	51.871
+O_100	O	100	53.958
+O_100	O	100	37.375
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	47.048
+O_100	O	100	53.234
+O_100	O	100	22.542
+O_100	O	100	69.422
+O_100	O	100	52.741
+O_100	O	100	24.915
+O_100	O	100	59.7
+O_100	O	100	26.637
+O_100	O	100	32.373
+O_100	O	100	40.898
+O_100	O	100	56.383
+O_100	O	100	38.015
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	60.889
+O_100	O	100	58.199
+O_100	O	100	53.23
+O_100	O	100	34.856
+O_100	O	100	30.87
+O_100	O	100	30.624
+O_100	O	100	50.172
+O_100	O	100	38.595
+O_100	O	100	54.081
+O_100	O	100	48.956
+O_100	O	100	39.427
+O_100	O	100	49.521
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	27.608
+O_100	O	100	34.407
+O_100	O	100	31.187
+O_100	O	100	49.872
+O_100	O	100	54.525
+O_100	O	100	31.707
+O_100	O	100	47.125
+O_100	O	100	53.56
+O_100	O	100	46.949
+O_100	O	100	56.402
+O_100	O	100	54.509
+O_100	O	100	55.313
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	30.725
+O_100	O	100	64.238
+O_100	O	100	28.483
+O_100	O	100	32.268
+O_100	O	100	53.746
+O_100	O	100	27.195
+O_100	O	100	59.322
+O_100	O	100	34.021
+O_100	O	100	35.165
+O_100	O	100	32.034
+O_100	O	100	39.028
+O_100	O	100	30.238
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	39.553
+O_100	O	100	48.565
+O_100	O	100	25.275
+O_100	O	100	48.107
+O_100	O	100	49.894
+O_100	O	100	30.77
+O_100	O	100	33.055
+O_100	O	100	26.806
+O_100	O	100	43.782
+O_100	O	100	46.541
+O_100	O	100	30.193
+O_100	O	100	27.123
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+O_100	O	100	
+A_cntrl	A	cntrl	44.49
+A_cntrl	A	cntrl	38.368
+A_cntrl	A	cntrl	42.43
+A_cntrl	A	cntrl	41.524
+A_cntrl	A	cntrl	42.056
+A_cntrl	A	cntrl	52.579
+A_cntrl	A	cntrl	21.711
+A_cntrl	A	cntrl	20.444
+A_cntrl	A	cntrl	23.947
+A_cntrl	A	cntrl	22.796
+A_cntrl	A	cntrl	45.97
+A_cntrl	A	cntrl	30.171
+A_cntrl	A	cntrl	25.424
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	29.353
+A_cntrl	A	cntrl	45.28
+A_cntrl	A	cntrl	45.774
+A_cntrl	A	cntrl	28.995
+A_cntrl	A	cntrl	21.359
+A_cntrl	A	cntrl	28.008
+A_cntrl	A	cntrl	13.629
+A_cntrl	A	cntrl	46.671
+A_cntrl	A	cntrl	20.35
+A_cntrl	A	cntrl	23.4
+A_cntrl	A	cntrl	48.107
+A_cntrl	A	cntrl	39.599
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	67.549
+A_cntrl	A	cntrl	43.831
+A_cntrl	A	cntrl	58.069
+A_cntrl	A	cntrl	29.662
+A_cntrl	A	cntrl	31.292
+A_cntrl	A	cntrl	49.377
+A_cntrl	A	cntrl	30.864
+A_cntrl	A	cntrl	27.83
+A_cntrl	A	cntrl	29.316
+A_cntrl	A	cntrl	50.321
+A_cntrl	A	cntrl	57.837
+A_cntrl	A	cntrl	28.547
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	46.679
+A_cntrl	A	cntrl	32.756
+A_cntrl	A	cntrl	45.34
+A_cntrl	A	cntrl	40.261
+A_cntrl	A	cntrl	25.268
+A_cntrl	A	cntrl	46.949
+A_cntrl	A	cntrl	28.515
+A_cntrl	A	cntrl	45.641
+A_cntrl	A	cntrl	42.922
+A_cntrl	A	cntrl	41.287
+A_cntrl	A	cntrl	46.969
+A_cntrl	A	cntrl	45.449
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	55.614
+A_cntrl	A	cntrl	48.847
+A_cntrl	A	cntrl	27.483
+A_cntrl	A	cntrl	44.193
+A_cntrl	A	cntrl	25.433
+A_cntrl	A	cntrl	48.329
+A_cntrl	A	cntrl	50.01
+A_cntrl	A	cntrl	32.05
+A_cntrl	A	cntrl	47.652
+A_cntrl	A	cntrl	25.424
+A_cntrl	A	cntrl	32.839
+A_cntrl	A	cntrl	52.39
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	34.172
+A_cntrl	A	cntrl	27.322
+A_cntrl	A	cntrl	46.033
+A_cntrl	A	cntrl	46.127
+A_cntrl	A	cntrl	49.619
+A_cntrl	A	cntrl	20.308
+A_cntrl	A	cntrl	26.806
+A_cntrl	A	cntrl	32.122
+A_cntrl	A	cntrl	29.874
+A_cntrl	A	cntrl	39.86
+A_cntrl	A	cntrl	24.859
+A_cntrl	A	cntrl	43.562
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_cntrl	A	cntrl	
+A_100	A	100	28.685
+A_100	A	100	22.209
+A_100	A	100	27.797
+A_100	A	100	24.243
+A_100	A	100	21.23
+A_100	A	100	30.369
+A_100	A	100	31.994
+A_100	A	100	25.937
+A_100	A	100	22.822
+A_100	A	100	16.902
+A_100	A	100	28.676
+A_100	A	100	28.652
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	19.334
+A_100	A	100	25.131
+A_100	A	100	30.066
+A_100	A	100	28.685
+A_100	A	100	20.747
+A_100	A	100	17.055
+A_100	A	100	25.094
+A_100	A	100	27.5
+A_100	A	100	24.083
+A_100	A	100	26.209
+A_100	A	100	26.441
+A_100	A	100	25.012
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	28.391
+A_100	A	100	24.954
+A_100	A	100	30.386
+A_100	A	100	22.818
+A_100	A	100	28.475
+A_100	A	100	24.073
+A_100	A	100	16.116
+A_100	A	100	22.989
+A_100	A	100	23.971
+A_100	A	100	35.457
+A_100	A	100	21.695
+A_100	A	100	30.002
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	25.768
+A_100	A	100	22.053
+A_100	A	100	29.587
+A_100	A	100	24.641
+A_100	A	100	27.777
+A_100	A	100	16.947
+A_100	A	100	20.814
+A_100	A	100	25.087
+A_100	A	100	24.618
+A_100	A	100	29.531
+A_100	A	100	18.558
+A_100	A	100	20.982
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	21.698
+A_100	A	100	26.441
+A_100	A	100	20.684
+A_100	A	100	23.302
+A_100	A	100	28.669
+A_100	A	100	30.023
+A_100	A	100	29.023
+A_100	A	100	18.269
+A_100	A	100	30.701
+A_100	A	100	26.688
+A_100	A	100	30.926
+A_100	A	100	31.886
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	21.22
+A_100	A	100	26.271
+A_100	A	100	22.912
+A_100	A	100	25.777
+A_100	A	100	23.768
+A_100	A	100	26.137
+A_100	A	100	29.498
+A_100	A	100	21.38
+A_100	A	100	29.843
+A_100	A	100	25.504
+A_100	A	100	18.851
+A_100	A	100	23.92
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+A_100	A	100	
+B_cntrl	B	cntrl	71.211
+B_cntrl	B	cntrl	62.961
+B_cntrl	B	cntrl	32.909
+B_cntrl	B	cntrl	52.306
+B_cntrl	B	cntrl	56.888
+B_cntrl	B	cntrl	65.339
+B_cntrl	B	cntrl	32.543
+B_cntrl	B	cntrl	30.347
+B_cntrl	B	cntrl	64.033
+B_cntrl	B	cntrl	75.243
+B_cntrl	B	cntrl	34.422
+B_cntrl	B	cntrl	62.489
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	27.002
+B_cntrl	B	cntrl	52.081
+B_cntrl	B	cntrl	52.687
+B_cntrl	B	cntrl	42.733
+B_cntrl	B	cntrl	51.802
+B_cntrl	B	cntrl	50.029
+B_cntrl	B	cntrl	27.32
+B_cntrl	B	cntrl	53.251
+B_cntrl	B	cntrl	52.183
+B_cntrl	B	cntrl	52.39
+B_cntrl	B	cntrl	44.611
+B_cntrl	B	cntrl	47.412
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	79.756
+B_cntrl	B	cntrl	70.041
+B_cntrl	B	cntrl	30.193
+B_cntrl	B	cntrl	40.375
+B_cntrl	B	cntrl	24.26
+B_cntrl	B	cntrl	71.785
+B_cntrl	B	cntrl	32.148
+B_cntrl	B	cntrl	26.012
+B_cntrl	B	cntrl	48.659
+B_cntrl	B	cntrl	48.55
+B_cntrl	B	cntrl	78.15
+B_cntrl	B	cntrl	51.527
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	52.957
+B_cntrl	B	cntrl	30.276
+B_cntrl	B	cntrl	56.289
+B_cntrl	B	cntrl	32.375
+B_cntrl	B	cntrl	32.232
+B_cntrl	B	cntrl	52.666
+B_cntrl	B	cntrl	21.262
+B_cntrl	B	cntrl	51.606
+B_cntrl	B	cntrl	23.395
+B_cntrl	B	cntrl	29.353
+B_cntrl	B	cntrl	25.674
+B_cntrl	B	cntrl	48.651
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	59.369
+B_cntrl	B	cntrl	74.738
+B_cntrl	B	cntrl	64.118
+B_cntrl	B	cntrl	26.115
+B_cntrl	B	cntrl	68.315
+B_cntrl	B	cntrl	47.695
+B_cntrl	B	cntrl	82.225
+B_cntrl	B	cntrl	62.623
+B_cntrl	B	cntrl	46.78
+B_cntrl	B	cntrl	70.108
+B_cntrl	B	cntrl	30.031
+B_cntrl	B	cntrl	44.978
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	47.366
+B_cntrl	B	cntrl	30.351
+B_cntrl	B	cntrl	25.736
+B_cntrl	B	cntrl	49.238
+B_cntrl	B	cntrl	46.621
+B_cntrl	B	cntrl	31.615
+B_cntrl	B	cntrl	32.207
+B_cntrl	B	cntrl	40
+B_cntrl	B	cntrl	47.296
+B_cntrl	B	cntrl	28.499
+B_cntrl	B	cntrl	45.596
+B_cntrl	B	cntrl	54.897
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_cntrl	B	cntrl	
+B_100	B	100	25.085
+B_100	B	100	18.833
+B_100	B	100	30.004
+B_100	B	100	62.712
+B_100	B	100	53.207
+B_100	B	100	57.539
+B_100	B	100	40.342
+B_100	B	100	44.409
+B_100	B	100	64.586
+B_100	B	100	24.586
+B_100	B	100	51.187
+B_100	B	100	55.254
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	49.638
+B_100	B	100	33.872
+B_100	B	100	41.996
+B_100	B	100	31.191
+B_100	B	100	27.64
+B_100	B	100	49.068
+B_100	B	100	23.947
+B_100	B	100	49.246
+B_100	B	100	26.78
+B_100	B	100	47.148
+B_100	B	100	22.712
+B_100	B	100	20.565
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	38.674
+B_100	B	100	35.26
+B_100	B	100	26.454
+B_100	B	100	35.248
+B_100	B	100	59.342
+B_100	B	100	31.581
+B_100	B	100	60.851
+B_100	B	100	28.729
+B_100	B	100	22.565
+B_100	B	100	65.255
+B_100	B	100	55.143
+B_100	B	100	50.85
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	36.46
+B_100	B	100	19.059
+B_100	B	100	32.204
+B_100	B	100	27.757
+B_100	B	100	40.907
+B_100	B	100	46.207
+B_100	B	100	42.677
+B_100	B	100	37.797
+B_100	B	100	40.961
+B_100	B	100	36.836
+B_100	B	100	40.523
+B_100	B	100	36.36
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	50.093
+B_100	B	100	25.113
+B_100	B	100	31.29
+B_100	B	100	20.289
+B_100	B	100	29.054
+B_100	B	100	26.934
+B_100	B	100	63.954
+B_100	B	100	33.153
+B_100	B	100	27.132
+B_100	B	100	61.811
+B_100	B	100	35.492
+B_100	B	100	31.473
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	38.84
+B_100	B	100	27.474
+B_100	B	100	22.972
+B_100	B	100	33.255
+B_100	B	100	31.047
+B_100	B	100	46.964
+B_100	B	100	36.294
+B_100	B	100	34.851
+B_100	B	100	47.198
+B_100	B	100	45.28
+B_100	B	100	36.624
+B_100	B	100	30.193
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	
+B_100	B	100	

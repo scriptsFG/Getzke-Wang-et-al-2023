@@ -1,0 +1,28 @@
+Date	Position	R401
+05.07.	Top_left	dphld
+05.07.	Top_center	dpvdydpvdl
+05.07.	Top_right	WT
+05.07.	Mid_left	dphlddpvdy
+05.07.	Mid_center	
+05.07.	Mid_right	dpvdy
+05.07.	Bottom_left	dphlddpvdl
+05.07.	Bottom_center	dpvdyPVDY
+05.07.	Bottom_right	dpvdl
+22.10.	Top_left	dphld
+22.10.	Top_center	dsypcdphlddpvdy
+22.10.	Top_right	WT
+22.10.	Mid_left	dphlddpvdy
+22.10.	Mid_center	
+22.10.	Mid_right	dsypc
+22.10.	Bottom_left	dphlddpvdl
+22.10.	Bottom_center	dsypcdphlddpvdl
+22.10.	Bottom_right	dsypcdphld
+29.10.	Top_left	WT
+29.10.	Top_center	dsypcdphlddpvdy
+29.10.	Top_right	dphld
+29.10.	Mid_left	dsypc
+29.10.	Mid_center	
+29.10.	Mid_right	dphlddpvdy
+29.10.	Bottom_left	dsypcdphld
+29.10.	Bottom_center	dsypcdphlddpvdl
+29.10.	Bottom_right	dphlddpvdl

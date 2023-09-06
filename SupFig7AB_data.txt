@@ -1,0 +1,181 @@
+Treatment	Bacterium	Plant	Rep	Label 	S1	S2	S3
+cntrl	R401_WT	Micro Tom	1	_16A_s	84		
+cntrl	R401_WT	Micro Tom	1	_16B_s	137.2		
+cntrl	R401_WT	Micro Tom	1	_16C_s	90.6	1.2	
+cntrl	R401_WT	Micro Tom	1	_16D_s	99		
+cntrl	R401_WT	Micro Tom	1	_16E_s	63.9		
+cntrl	R401_WT	Lotus japonicus	1	_22A_s	26.5	7.6	
+cntrl	R401_WT	Lotus japonicus	1	_22B_s	16.6	11	
+cntrl	R401_WT	Lotus japonicus	1	_22C_s	9.3	22	
+cntrl	R401_WT	Lotus japonicus	1	_22D_s	18.6		
+cntrl	R401_WT	Lotus japonicus	1	_22E_s	13.6	19.8	
+cntrl	R401_LP	Micro Tom	1	_17A_s			
+cntrl	R401_LP	Micro Tom	1	_17B_s	108.5		
+cntrl	R401_LP	Micro Tom	1	_17C_s	171.7		
+cntrl	R401_LP	Micro Tom	1	_17D_s	226.3		
+cntrl	R401_LP	Micro Tom	1	_17E_s	145.3		
+cntrl	R401_LP	Lotus japonicus	1	_23A_s	16.7	13.3	
+cntrl	R401_LP	Lotus japonicus	1	_23B_s			
+cntrl	R401_LP	Lotus japonicus	1	_23C_s	12.3	17.3	
+cntrl	R401_LP	Lotus japonicus	1	_23D_s	23.9	17.5	
+cntrl	R401_LP	Lotus japonicus	1	_23E_s	18.8	13.2	
+NaCl	R401_WT	Micro Tom	1	_19A_s	21.2		
+NaCl	R401_WT	Micro Tom	1	_19B_s			
+NaCl	R401_WT	Micro Tom	1	_19C_s			
+NaCl	R401_WT	Micro Tom	1	_19D_s	18.2	29.7	
+NaCl	R401_WT	Micro Tom	1	_19E_s	15	15	
+NaCl	R401_WT	Lotus japonicus	1	_25A_s	16.1	9.8	
+NaCl	R401_WT	Lotus japonicus	1	_25B_s	23.2	15.8	
+NaCl	R401_WT	Lotus japonicus	1	_25C_s	9.1	8.4	
+NaCl	R401_WT	Lotus japonicus	1	_25D_s	20.4	12	
+NaCl	R401_WT	Lotus japonicus	1	_25E_s	24.4		
+NaCl	R401_LP	Micro Tom	1	_20A_s			
+NaCl	R401_LP	Micro Tom	1	_20B_s	21.9		
+NaCl	R401_LP	Micro Tom	1	_20C_s	44.4	44.4	
+NaCl	R401_LP	Micro Tom	1	_20D_s	32.1		
+NaCl	R401_LP	Micro Tom	1	_20E_s	21.9		
+NaCl	R401_LP	Lotus japonicus	1	_26A_s	26.9	25.9	
+NaCl	R401_LP	Lotus japonicus	1	_26B_s	22.3	20.2	
+NaCl	R401_LP	Lotus japonicus	1	_26C_s	18.9	27.6	
+NaCl	R401_LP	Lotus japonicus	1	_26D_s	26.3	18.8	
+NaCl	R401_LP	Lotus japonicus	1	_26E_s	19.9	22.4	
+cntrl	R401_HK	Micro Tom	1	_15A_s	172.6		
+cntrl	R401_HK	Micro Tom	1	_15B_s	130.6		
+cntrl	R401_HK	Micro Tom	1	_15C_s	111.7		
+cntrl	R401_HK	Micro Tom	1	_15D_s	150.3		
+cntrl	R401_HK	Micro Tom	1	_15E_s	110.1		
+NaCl	R401_HK	Micro Tom	1	_18A_s	38.7	39.7	
+NaCl	R401_HK	Micro Tom	1	_18B_s	16.8		
+NaCl	R401_HK	Micro Tom	1	_18C_s	98.9	43.3	67
+NaCl	R401_HK	Micro Tom	1	_18D_s	19.2	32.7	
+NaCl	R401_HK	Micro Tom	1	_18E_s	17.6		
+cntrl	R401_HK	Lotus japonicus	1	_21A_s	19	15	14.5
+cntrl	R401_HK	Lotus japonicus	1	_21B_s	25.8	17.8	16.3
+cntrl	R401_HK	Lotus japonicus	1	_21C_s	10.4	13.8	12.7
+cntrl	R401_HK	Lotus japonicus	1	_21D_s	21.6	16.3	18
+cntrl	R401_HK	Lotus japonicus	1	_21E_s	12.4	20.5	17.3
+NaCl	R401_HK	Lotus japonicus	1	_24A_s	16.1	10	14.7
+NaCl	R401_HK	Lotus japonicus	1	_24B_s	15.1	11.7	13.1
+NaCl	R401_HK	Lotus japonicus	1	_24C_s	15.6	11.3	
+NaCl	R401_HK	Lotus japonicus	1	_24D_s	20.6	18.1	20.8
+NaCl	R401_HK	Lotus japonicus	1	_24E_s	19.2	17.3	16.8
+cntrl	R401_WT	Micro Tom	2	_16A_s	40.4		
+cntrl	R401_WT	Micro Tom	2	_16B_s	91.1		
+cntrl	R401_WT	Micro Tom	2	_16C_s	44.7		
+cntrl	R401_WT	Micro Tom	2	_16D_s	65.9		
+cntrl	R401_WT	Micro Tom	2	_16E_s	76.7		
+cntrl	R401_WT	Lotus japonicus	2	_22A_s	16.5	21.8	
+cntrl	R401_WT	Lotus japonicus	2	_22B_s	7.4	25.6	
+cntrl	R401_WT	Lotus japonicus	2	_22C_s	24.5	10.7	
+cntrl	R401_WT	Lotus japonicus	2	_22D_s	16.7	31.9	
+cntrl	R401_WT	Lotus japonicus	2	_22E_s	29.7	11.2	
+cntrl	R401_LP	Micro Tom	2	_17A_s	148.8		
+cntrl	R401_LP	Micro Tom	2	_17B_s	181.4		
+cntrl	R401_LP	Micro Tom	2	_17C_s	112.2		
+cntrl	R401_LP	Micro Tom	2	_17D_s	158.4		
+cntrl	R401_LP	Micro Tom	2	_17E_s	205.2		
+cntrl	R401_LP	Lotus japonicus	2	_23A_s	12.3	22.7	
+cntrl	R401_LP	Lotus japonicus	2	_23B_s	25.3	16.5	
+cntrl	R401_LP	Lotus japonicus	2	_23C_s	17.9	11	
+cntrl	R401_LP	Lotus japonicus	2	_23D_s	21.4	10	
+cntrl	R401_LP	Lotus japonicus	2	_23E_s	9.3	18.4	
+NaCl	R401_WT	Micro Tom	2	_19A_s	18.6		
+NaCl	R401_WT	Micro Tom	2	_19B_s			
+NaCl	R401_WT	Micro Tom	2	_19C_s			
+NaCl	R401_WT	Micro Tom	2	_19D_s			
+NaCl	R401_WT	Micro Tom	2	_19E_s			
+NaCl	R401_WT	Lotus japonicus	2	_25A_s	17.7	24.8	
+NaCl	R401_WT	Lotus japonicus	2	_25B_s	22.6	23.2	
+NaCl	R401_WT	Lotus japonicus	2	_25C_s	20.1	23.5	
+NaCl	R401_WT	Lotus japonicus	2	_25D_s	12.1	19.7	
+NaCl	R401_WT	Lotus japonicus	2	_25E_s	20.4	8.4	
+NaCl	R401_LP	Micro Tom	2	_20A_s	25.6		
+NaCl	R401_LP	Micro Tom	2	_20B_s			
+NaCl	R401_LP	Micro Tom	2	_20C_s	39.7		
+NaCl	R401_LP	Micro Tom	2	_20D_s	43.5		
+NaCl	R401_LP	Micro Tom	2	_20E_s			
+NaCl	R401_LP	Lotus japonicus	2	_26A_s	24.5	12.2	
+NaCl	R401_LP	Lotus japonicus	2	_26B_s	14.5	23.3	
+NaCl	R401_LP	Lotus japonicus	2	_26C_s	24.4	19	
+NaCl	R401_LP	Lotus japonicus	2	_26D_s	26.2	10.6	
+NaCl	R401_LP	Lotus japonicus	2	_26E_s	25	16	
+cntrl	R401_HK	Micro Tom	2	_15A_s	121.5		
+cntrl	R401_HK	Micro Tom	2	_15B_s	175.6		
+cntrl	R401_HK	Micro Tom	2	_15C_s	73.6		
+cntrl	R401_HK	Micro Tom	2	_15D_s	244.7		
+cntrl	R401_HK	Micro Tom	2	_15E_s	225.3		
+NaCl	R401_HK	Micro Tom	2	_18A_s			
+NaCl	R401_HK	Micro Tom	2	_18B_s	33.3		
+NaCl	R401_HK	Micro Tom	2	_18C_s			
+NaCl	R401_HK	Micro Tom	2	_18D_s			
+NaCl	R401_HK	Micro Tom	2	_18E_s			
+cntrl	R401_HK	Lotus japonicus	2	_21A_s	24.8	21.4	15.5
+cntrl	R401_HK	Lotus japonicus	2	_21B_s	22.3	19.1	8.7
+cntrl	R401_HK	Lotus japonicus	2	_21C_s	22.6	7.8	20.5
+cntrl	R401_HK	Lotus japonicus	2	_21D_s	21.2	14.9	21.1
+cntrl	R401_HK	Lotus japonicus	2	_21E_s	15.8	8.2	9.1
+NaCl	R401_HK	Lotus japonicus	2	_24A_s	22.3	14.7	12.5
+NaCl	R401_HK	Lotus japonicus	2	_24B_s	20.7	21.4	15.4
+NaCl	R401_HK	Lotus japonicus	2	_24C_s	13.3	9.5	14.2
+NaCl	R401_HK	Lotus japonicus	2	_24D_s	15.4	11.1	15
+NaCl	R401_HK	Lotus japonicus	2	_24E_s	15.8	13.5	9.2
+cntrl	R401_WT	Micro Tom	3	_16A_s			
+cntrl	R401_WT	Micro Tom	3	_16B_s			
+cntrl	R401_WT	Micro Tom	3	_16C_s			
+cntrl	R401_WT	Micro Tom	3	_16D_s			
+cntrl	R401_WT	Micro Tom	3	_16E_s			
+cntrl	R401_WT	Lotus japonicus	3	_22A_s	16	16	
+cntrl	R401_WT	Lotus japonicus	3	_22B_s	24.3	4.8	
+cntrl	R401_WT	Lotus japonicus	3	_22C_s	21.3	26.6	
+cntrl	R401_WT	Lotus japonicus	3	_22D_s	31.4	32.5	8.3
+cntrl	R401_WT	Lotus japonicus	3	_22E_s	25.4	20.3	
+cntrl	R401_LP	Micro Tom	3	_17A_s	19.5	19	
+cntrl	R401_LP	Micro Tom	3	_17B_s	12.1		
+cntrl	R401_LP	Micro Tom	3	_17C_s	13.4		
+cntrl	R401_LP	Micro Tom	3	_17D_s			
+cntrl	R401_LP	Micro Tom	3	_17E_s			
+cntrl	R401_LP	Lotus japonicus	3	_23A_s	23.4	11.1	
+cntrl	R401_LP	Lotus japonicus	3	_23B_s	26.7	26	
+cntrl	R401_LP	Lotus japonicus	3	_23C_s	18.7	25.5	
+cntrl	R401_LP	Lotus japonicus	3	_23D_s	17.8	20	
+cntrl	R401_LP	Lotus japonicus	3	_23E_s	25	24.9	
+NaCl	R401_WT	Micro Tom	3	_19A_s			
+NaCl	R401_WT	Micro Tom	3	_19B_s			
+NaCl	R401_WT	Micro Tom	3	_19C_s			
+NaCl	R401_WT	Micro Tom	3	_19D_s			
+NaCl	R401_WT	Micro Tom	3	_19E_s			
+NaCl	R401_WT	Lotus japonicus	3	_25A_s	22.3	17.7	
+NaCl	R401_WT	Lotus japonicus	3	_25B_s	18.9	13.3	
+NaCl	R401_WT	Lotus japonicus	3	_25C_s	9.7	11.3	
+NaCl	R401_WT	Lotus japonicus	3	_25D_s	18.9	11.5	
+NaCl	R401_WT	Lotus japonicus	3	_25E_s	25.8	29.1	
+NaCl	R401_LP	Micro Tom	3	_20A_s			
+NaCl	R401_LP	Micro Tom	3	_20B_s			
+NaCl	R401_LP	Micro Tom	3	_20C_s			
+NaCl	R401_LP	Micro Tom	3	_20D_s			
+NaCl	R401_LP	Micro Tom	3	_20E_s			
+NaCl	R401_LP	Lotus japonicus	3	_26A_s	27.9	34.5	
+NaCl	R401_LP	Lotus japonicus	3	_26B_s	25.5	22.7	
+NaCl	R401_LP	Lotus japonicus	3	_26C_s	26.7	27.1	
+NaCl	R401_LP	Lotus japonicus	3	_26D_s	22.4	22.4	
+NaCl	R401_LP	Lotus japonicus	3	_26E_s	25.3	21.3	
+cntrl	R401_HK	Micro Tom	3	_15A_s	12.6	15.2	
+cntrl	R401_HK	Micro Tom	3	_15B_s	18.2		
+cntrl	R401_HK	Micro Tom	3	_15C_s	19.5		
+cntrl	R401_HK	Micro Tom	3	_15D_s	12.9		
+cntrl	R401_HK	Micro Tom	3	_15E_s	19.7	25	
+NaCl	R401_HK	Micro Tom	3	_18A_s			
+NaCl	R401_HK	Micro Tom	3	_18B_s			
+NaCl	R401_HK	Micro Tom	3	_18C_s			
+NaCl	R401_HK	Micro Tom	3	_18D_s			
+NaCl	R401_HK	Micro Tom	3	_18E_s			
+cntrl	R401_HK	Lotus japonicus	3	_21A_s	13	15.8	25.1
+cntrl	R401_HK	Lotus japonicus	3	_21B_s	28.5	20.4	21.6
+cntrl	R401_HK	Lotus japonicus	3	_21C_s	16.4	20	14
+cntrl	R401_HK	Lotus japonicus	3	_21D_s	13.4	12.2	6.7
+cntrl	R401_HK	Lotus japonicus	3	_21E_s	24.6	20.4	15.7
+NaCl	R401_HK	Lotus japonicus	3	_24A_s	22.6	19.6	11.9
+NaCl	R401_HK	Lotus japonicus	3	_24B_s	25.8	16.3	8.7
+NaCl	R401_HK	Lotus japonicus	3	_24C_s	7.5	13.3	17.8
+NaCl	R401_HK	Lotus japonicus	3	_24D_s	23.7	22	29.9
+NaCl	R401_HK	Lotus japonicus	3	_24E_s	11.8	15.7	17.3
